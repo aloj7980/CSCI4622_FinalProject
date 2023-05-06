@@ -16,9 +16,12 @@ data <- data %>% filter(!station_id %in% na_station_ids)
 
 # Loop over each site and check stationarity of SWE data
 for (site_id in unique(data$station_id)) {
+  print(site_id)
   # Subset the data for the current site
   site_data <- data %>% filter(site_id == site_id) %>% select(date, snow_water_equivalent)
   
+  site_data
+
   # Run the ADF test to check for stationarity
   adf_result <- adf.test(site_data$snow_water_equivalent)
   # If data is not stationary, stationarize it using differencing
