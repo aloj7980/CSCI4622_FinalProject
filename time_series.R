@@ -17,11 +17,10 @@ na_data <- data %>% filter(is.na(snow_water_equivalent))
 na_station_ids <- na_data %>% distinct(station_id) %>% pull(station_id)
 
 data <- data %>% filter(!station_id %in% na_station_ids)
-data_list = list()
 
 # Loop over each site and check stationarity of SWE data
 for (site_id in unique(data$station_id)) {
-  # print(sprintf("Processing: %i", site_id))
+  print(sprintf("Processing: %i", site_id))
 
   # Subset the data for the current site
   site_data <- data %>% filter(site_id == site_id) %>% select(date, snow_water_equivalent)
@@ -38,10 +37,9 @@ for (site_id in unique(data$station_id)) {
     site_data <- site_data[-1,] # remove first row since differencing causes NAs
     
     # Update the data object with the stationary data
-    data_list$station_id = site_data
+    data <- data %>% filter(site_id != site_id) %>% bind_rows(site_data)
+
   }
-  
-  data = bind_rows(data_list)
 }
 
 # Produce the data
