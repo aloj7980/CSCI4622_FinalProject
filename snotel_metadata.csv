@@ -1,0 +1,905 @@
+network,state,site_name,description,start,end,latitude,longitude,elev,county,site_id
+SNTL,ID,couch summit ,Lower Little Smoky Creek (170501130204),2021-10-01,2023-05-07,43.52,-114.8,2073,Camas,1306
+SNTL,MT,chicago ridge ,Rock Creek (170102131301),2022-08-01,2023-05-07,48.06,-115.7,1768,Sanders,1312
+SNTL,MT,stryker basin ,West Fork Swift Creek (170102100501),2022-09-01,2022-09-01,48.68,-114.66,1876,Flathead,1311
+SNTL,NV,lamoille upper ,Thomas Creek-Lamoille Creek (160401010607),2022-08-01,2023-05-07,40.6,-115.38,2741,Elko,1310
+SNTL,OR,fifteenmile ,Dog River (170701050503),2022-09-01,2023-05-07,45.35,-121.53,1820,Hood River,1314
+SNTL,UT,atwater ,Headwaters Little Cottonwood Canyon (160202040202),2022-08-01,2023-05-07,40.59,-111.64,2668,Salt Lake,1308
+SNTL,UT,rockwood gs ,Outlet Clear Creek (160300030105),2022-09-01,2023-05-07,38.67,-112.33,2619,Sevier,1309
+SNTL,AK,creamers field ,Chena River (190803060907),2021-08-01,2023-05-07,64.87,-147.74,134,Fairbanks North Star,1302
+SNTL,AK,dahl creek ,Dahl Creek (190503021508),2021-09-01,2023-05-07,66.95,-156.9,79,Northwest Arctic,1303
+SNTL,AK,paradise hill ,190803010807-Black Hills (190803010807),2021-07-01,2023-05-07,62.83,-141.41,613,Southeast Fairbanks,1301
+SNTL,ID,fish ck ,Upper Fish Creek (170402210401),2021-09-01,2023-05-07,43.56,-113.72,1929,Blaine,1305
+SNTL,ID,pebble creek ,Pebble Creek (170402080206),2021-06-01,2023-05-07,42.77,-112.11,1985,Caribou,1299
+SNTL,NM,taos pueblo ,La Junta Creek-Rio Pueblo de Taos (130201010602),2021-09-01,2023-05-07,36.54,-105.36,3359,Colfax,1307
+SNTL,UT,gold basin ,Upper Pack Creek (140300050401),2021-09-01,2023-05-07,38.47,-109.26,3071,San Juan,1304
+SNTL,UT,powder mountain ,Davenport Creek (160102030102),2021-07-01,2023-05-07,41.37,-111.77,2592,Cache,1300
+SNTL,AK,chena lakes ,190803060901 (190803060901),2020-08-01,2023-05-07,64.76,-147.22,152,Fairbanks North Star,1260
+SNTL,UT,wolf creek peak ,Mill Hollow-South Fork Provo River (160202030104),2020-08-01,2023-05-07,40.48,-111.04,2986,Wasatch,1164
+SNTL,WA,mt. tebo ,Upper South Fork Skokomish River (171100170101),2020-07-01,2023-05-07,47.46,-123.41,1031,Mason,1126
+SNTL,AK,frostbite bottom ,Fishhook Creek-Little Susitna River (190205051202),2019-02-01,2023-05-07,61.75,-149.27,823,Matanuska-susitna,641
+SNTL,AK,mcgrath ,Town of McGrath-Kuskokwim River (190304050502),2019-08-01,2023-05-07,62.95,-155.61,104,Yukon-koyukuk,785
+SNTL,UT,parleys upper ,Parleys Creek (160202040302),2019-08-01,2023-05-07,40.7,-111.61,2546,Salt Lake,856
+SNTL,AK,east palmer ,Outlet Matanuska River (190204020709),2018-07-01,2023-05-07,61.6,-149.1,70,Matanuska-susitna,953
+SNTL,AK,galena ak ,Louden Slough-Yukon River (190902051104),2018-08-01,2023-05-07,64.7,-156.71,125,Yukon-koyukuk,429
+SNTL,AK,gulkana river ,Boulder Lake-Gulkana River (190201020604),2018-06-01,2023-05-07,62.41,-145.38,558,Valdez-cordova,2222
+SNTL,AK,spring creek ,Outlet Matanuska River (190204020709),2018-06-01,2023-05-07,61.66,-149.13,177,Matanuska-susitna,2044
+SNTL,MT,jl meadow ,Dad Creek-Medicine Lodge Creek (100200011202),2017-10-01,2023-05-07,44.78,-113.12,2682,Beaverhead,1287
+SNTL,NV,oneil creek ,Pole Creek (170402130106),2018-06-01,2023-05-07,41.86,-115.08,1987,Elko,1272
+SNTL,AK,flower mountain ,Porcupine Creek (190103031206),2017-08-01,2023-05-07,59.4,-136.28,765,Haines,1285
+SNTL,CA,fredonyer peak ,Lower Dry Lake-Frontal Eagle Lake (180800030304),2016-10-01,2023-05-07,40.69,-120.61,2197,Lassen,1277
+SNTL,MT,slagamelt lakes ,Big Swamp Creek (100200040308),2017-09-01,2023-05-07,45.37,-113.72,2627,Beaverhead,1286
+SNTL,UT,bobs hollow ,North Fork Chalk Creek (160300051401),2016-10-01,2023-05-07,38.95,-112.15,2840,Millard,1278
+SNTL,UT,santaquin meadows ,Summit Creek (160202010301),2016-10-01,2023-05-07,39.92,-111.72,2388,Utah,1280
+SNTL,AK,heen latinee ,Davies Creek (190103010401),2015-10-01,2023-05-07,58.7,-134.86,629,Juneau,1270
+SNTL,AK,jack wade jct ,Kal Creek (190705022204),2015-10-01,2023-05-07,64.15,-141.33,1093,Southeast Fairbanks,1275
+SNTL,CO,elkhead divide ,Headwaters Elkhead Creek (140500010601),2016-09-01,2023-05-07,40.8,-107.1,2682,Routt,1252
+SNTL,NM,garita peak ,Headwaters San Antonio Creek (130202020201),2016-09-01,2023-05-07,36,-106.55,3083,Rio Arriba,1173
+SNTL,UT,mt pennell ,State Creek (140700010502),2015-10-01,2023-05-07,37.98,-110.79,2807,Garfield,1269
+SNTL,AK,lower kachemak creek ,Bradley Lake (190203011101),2015-06-01,2023-05-07,59.74,-150.69,584,Kenai Peninsula,1265
+SNTL,AZ,hawley lake ,Trout Creek (150601020106),2015-09-01,2023-05-07,33.97,-109.77,2534,Apache,1271
+SNTL,NV,fry canyon ,Headwaters North Fork Humboldt River (160401020101),2014-10-01,2023-05-07,41.58,-115.94,2072,Elko,1262
+SNTL,UT,lonesome beaver ,Headwaters North Wash (140700010301),2014-10-01,2023-05-07,38.07,-110.77,2868,Garfield,1261
+SNTL,UT,panguitch lake rs ,Ipson Creek (160300010402),2014-10-01,2023-05-07,37.7,-112.65,2545,Garfield,1148
+SNTL,WA,pinto rock ,Iron Creek (170800040405),2014-10-01,2023-05-07,46.32,-121.94,1353,Skamania,1263
+SNTL,WA,skate creek ,Silver Creek (170800040505),2014-10-01,2023-05-07,46.64,-121.83,1149,Lewis,1257
+SNTL,AK,alexander lake ,Headwaters Alexander Creek (190205051106),2014-08-01,2023-05-07,61.75,-150.89,49,Matanuska-susitna,1267
+SNTL,AK,fielding lake ,Fielding Lake (190803040302),2014-08-01,2023-05-07,63.2,-145.63,914,Valdez-cordova,1268
+SNTL,AK,hozatka lake ,Hozatka Lake (190901091201),2014-08-01,2023-05-07,65.2,-156.63,63,Yukon-koyukuk,2210
+SNTL,AK,telaquana lake ,Upper Telaquana River (190304052303),2014-07-01,2023-05-07,60.98,-153.92,389,Bethel,1266
+SNTL,CA,state line ,Weed Valley-North Fork Willow Creek (180102040201),2014-06-01,2023-05-07,41.99,-120.72,1731,Modoc,1258
+SNTL,CO,sawtooth ,Middle Saint Vrain Creek (101900050102),2014-09-01,2023-05-07,40.14,-105.58,2949,Boulder,1251
+SNTL,NV,dry creek ,Upper Secret Creek (160401010601),2013-10-01,2023-05-07,40.86,-115.22,1998,Elko,1243
+SNTL,NV,little valley ,Franktown Creek-Frontal Washoe Lake (160501020301),2013-10-01,2023-05-07,39.25,-119.88,1979,Washoe,1242
+SNTL,NV,pole canyon ,Woods Creek-Franklin River (160600071101),2013-10-01,2023-05-07,40.86,-115.12,2365,Elko,1244
+SNTL,UT,corral ,Grassy Trail Reservoir-Grassy Trail Creek (140600070903),2013-10-01,2023-05-07,39.66,-110.38,2501,Carbon,1236
+SNTL,UT,sunflower flat ,Oak Creek (140700030406),2013-10-01,2023-05-07,38.05,-111.34,3053,Garfield,1249
+SNTL,UT,suu ranch ,Crow Creek-Coal Creek (160300060306),2013-10-01,2023-05-07,37.6,-112.93,2454,Iron,1248
+SNTL,UT,takka wiiya ,Fifteenmile Creek (160203060804),2013-10-01,2023-05-07,39.74,-113.98,2780,Juab,1247
+SNTL,WA,muckamuck ,West Fork Salmon Creek (170200062001),2014-06-01,2023-05-07,48.59,-119.87,1362,Okanogan,1259
+SNTL,NM,rio santa barbara ,Outlet Rio Santa Barbara (130201010905),2013-09-01,2023-05-07,36.07,-105.63,3250,Taos,1254
+SNTL,UT,bevans cabin ,Settlement Canyon (160203040401),2012-10-01,2023-05-07,40.46,-112.25,1987,Tooele,1214
+SNTL,UT,buckboard flat ,North Creek-Montezuma Creek (140802030103),2012-10-01,2023-05-07,37.87,-109.45,2720,San Juan,1153
+SNTL,UT,gbrc hq ,Ephraim Creek (160300040307),2012-10-01,2023-05-07,39.32,-111.49,2683,Sanpete,1221
+SNTL,UT,gbrc meadows ,Ephraim Creek (160300040307),2012-10-01,2023-05-07,39.3,-111.45,3005,Sanpete,1222
+SNTL,UT,hobble creek ,Upper Diamond Fork (160202020304),2012-10-01,2023-05-07,40.19,-111.36,2249,Utah,1223
+SNTL,UT,huntington horse ,Gooseberry Creek (140600070201),2012-10-01,2023-05-07,39.62,-111.31,2942,Sanpete,1216
+SNTL,UT,lasal mountain-lower ,Horse Creek-Mill Creek (140300050404),2012-10-01,2023-05-07,38.48,-109.29,2677,San Juan,1215
+SNTL,UT,mt baldy ,Headwaters Twelvemile Creek (160300040402),2012-10-01,2023-05-07,39.14,-111.51,2903,Sanpete,1224
+SNTL,UT,redden mine lwr ,Thorn Creek-Beaver Creek (160201010103),2012-10-01,2023-05-07,40.68,-111.22,2601,Summit,1225
+SNTL,UT,rees flat ,Quaking Aspen Creek-Chicken Creek (160300050202),2012-10-01,2023-05-07,39.5,-111.73,2196,Juab,1217
+SNTL,UT,thistle flat ,Manti Canyon (160300040501),2012-10-01,2023-05-07,39.24,-111.52,2678,Sanpete,1226
+SNTL,UT,upper joes valley ,Indian Creek (140600090201),2012-10-01,2023-05-07,39.42,-111.25,2620,Emery,1227
+SNTL,UT,wrigley creek ,Millsite Reservoir-Ferron Creek (140600090303),2012-10-01,2023-05-07,39.13,-111.36,2843,Sanpete,1228
+SNTL,UT,yankee reservoir ,Center Creek-Parowan Creek (160300060202),2012-10-01,2023-05-07,37.75,-112.77,2649,Iron,1197
+SNTL,AK,mcneil river sgs ,Mikfik Creek-Frontal Kamishak Bay (190206021207),2012-06-01,2023-05-07,59.08,-154.28,43,Kenai Peninsula,1191
+SNTL,AZ,bar m ,Bar M Canyon (150602020601),2012-09-01,2023-05-07,34.86,-111.6,1950,Coconino,1212
+SNTL,MT,bassoo peak ,Mill Creek (170102120105),2011-10-01,2023-05-07,47.86,-114.76,1570,Sanders,1190
+SNTL,NV,bird creek ,Timber Creek-Duck Creek (160600081304),2011-10-01,2023-05-07,39.46,-114.65,2297,White Pine,1155
+SNTL,NV,cave mountain ,Bastian Creek (160600080402),2011-10-01,2023-05-07,39.16,-114.61,3224,White Pine,1152
+SNTL,NV,columbia basin ,Columbia Creek (170501050503),2011-12-01,2023-05-07,41.67,-116.07,1976,Elko,1204
+SNTL,NV,corduroy flat ,Black Canyon Wash (160600121206),2011-12-01,2023-05-07,39,-115.42,2633,White Pine,1209
+SNTL,NV,defiance mines ,Cooper Wash-Willow Creek (160600081002),2011-12-01,2023-05-07,39.09,-114.9,2835,White Pine,1210
+SNTL,NV,golconda ,Pole Creek (160401080102),2011-10-01,2023-05-07,40.88,-117.59,2017,Humboldt,1195
+SNTL,NV,jakes creek ,Upper Jakes Creek (170402130308),2011-12-01,2023-05-07,41.57,-115.03,2249,Elko,1211
+SNTL,NV,kalamazoo ,Lower Spring Valley Creek (160600080700),2011-10-01,2023-05-07,39.56,-114.63,2370,White Pine,1150
+SNTL,NV,merritt mountain ,Merritt Creek-Sheep Creek (170501020601),2011-12-01,2023-05-07,41.89,-115.86,2108,Elko,1207
+SNTL,NV,midas ,Frazer Creek (160401060402),2011-12-01,2023-05-07,41.27,-116.8,2021,Elko,1206
+SNTL,NV,silver creek nv ,Headwaters Silver Creek (160203010806),2011-12-01,2023-05-07,39.23,-114.24,2499,White Pine,1205
+SNTL,NV,snowstorm mtn ,First Creek-South Fork Little Humboldt River (160401090203),2011-12-01,2023-05-07,41.34,-116.98,2256,Elko,1208
+SNTL,NV,stag mountain ,Stag Creek (170501020101),2011-12-01,2023-05-07,41.41,-115.45,2329,Elko,1203
+SNTL,NV,summit lk ,Summit Lake (160402021301),2011-10-01,2023-05-07,41.49,-119,2321,Humboldt,1194
+SNTL,NV,tent mtn lower ,Starr Creek (160401010704),2011-12-01,2023-05-07,40.98,-115.17,2164,Elko,1202
+SNTL,NV,vacarro springs ,Torre Creek-Slough Creek-Frontal Diamond Valley (160600051503),2011-10-01,2023-05-07,39.45,-115.98,2405,Eureka,1137
+SNTL,NV,white river nv ,Saddle Spring-White River (150100110302),2011-12-01,2023-05-07,38.95,-115.38,2245,White Pine,1213
+SNTL,OR,howard prairie ,Upper Jenny Creek (180102060401),2012-09-01,2023-05-07,42.22,-122.37,1396,Jackson,1158
+SNTL,OR,smith ridge ,Smith River (170900040203),2011-10-01,2023-05-07,44.3,-122.04,997,Linn,1167
+SNTL,UT,brian head ,Dry Lakes Creek (160300060201),2011-10-01,2023-05-07,37.68,-112.86,3060,Iron,1154
+SNTL,UT,buck pasture ,Upper Cottonwood Creek (140401070301),2011-11-01,2023-05-07,40.84,-110.66,2936,Summit,1192
+SNTL,UT,gooseberry rs up ,Gooseberry Creek (160300030405),2011-10-01,2023-05-07,38.79,-111.69,2559,Sevier,1184
+SNTL,WA,satus pass ,Headwaters Little Klickitat River (170701060301),2012-08-01,2023-05-07,45.99,-120.68,1207,Klickitat,1231
+SNTL,WY,med bow ,Spring Creek (101800040302),2012-08-01,2023-05-07,41.38,-106.35,3204,Carbon,1196
+SNTL,AK,american creek ,American Creek (190705050504),2011-08-01,2023-05-07,64.79,-141.23,320,Southeast Fairbanks,1189
+SNTL,AK,exit glacier ,Oulet Resurrection River (190202020508),2011-07-01,2023-05-07,60.19,-149.62,122,Kenai Peninsula,1092
+SNTL,CO,black mesa ,Fish Creek (140300020103),2011-07-01,2023-05-07,37.79,-108.18,3525,Dolores,1185
+SNTL,CO,black mountain ,Upper Dale Creek (101900070501),2010-10-01,2023-05-07,40.89,-105.66,2737,Larimer,1161
+SNTL,CO,fool creek ,Saint Louis Creek (140100010203),2011-07-01,2023-05-07,39.87,-105.87,3400,Grand,1186
+SNTL,CO,high lonesome ,Meadows Creek-Ranch Creek (140100010205),2011-07-01,2023-05-07,40.04,-105.75,3242,Grand,1187
+SNTL,CO,wager gulch ,Lake Sanc Cristobal-Lake Fork (140200020602),2011-07-01,2023-05-07,37.88,-107.36,3393,Hinsdale,1188
+SNTL,CO,weminuche creek ,Sand Creek (140801020203),2010-10-01,2023-05-07,37.52,-107.32,3276,Hinsdale,1160
+SNTL,NM,san antonio sink ,Canada Tio Grande-Rio San Antonio (130100050301),2011-07-01,2023-05-07,36.86,-106.23,2787,Rio Arriba,1172
+SNTL,NV,wheeler peak ,Lehman Creek (160203010801),2010-10-01,2023-05-07,39.01,-114.31,3066,White Pine,1147
+SNTL,OR,bear grass ,Smith River (170900040203),2011-07-01,2023-05-07,44.33,-122.09,1439,Linn,1166
+SNTL,UT,bear river rs ,Cottonwood Creek-Mill Creek (160101010106),2010-10-01,2023-05-07,40.89,-110.83,2675,Summit,992
+SNTL,UT,box springs ,Box Creek (160300020107),2010-10-01,2023-05-07,38.5,-112.01,2813,Piute,1156
+SNTL,UT,ef blacks fork gs ,Sage Creek (140401070302),2010-10-01,2023-05-07,40.88,-110.54,2853,Summit,1163
+SNTL,UT,fish lake utah ,Deadman Hollow (140700030108),2010-10-01,2023-05-07,38.5,-111.77,2682,Sevier,1149
+SNTL,UT,george creek ,George Creek (170402100401),2010-10-01,2023-05-07,41.92,-113.41,2732,Box Elder,1151
+SNTL,UT,kilfoil creek ,Upper Lost Creek (160201010603),2010-10-01,2023-05-07,41.25,-111.41,2201,Morgan,1145
+SNTL,UT,lost creek resv ,Upper Lost Creek (160201010603),2010-10-01,2023-05-07,41.22,-111.36,1854,Morgan,1118
+SNTL,UT,oak creek ,Oak Creek Sinks (160300051505),2010-10-01,2023-05-07,39.35,-112.33,2393,Millard,1146
+SNTL,WA,gold axe camp ,Lower Toroda Creek (170200021204),2010-10-01,2023-05-07,48.95,-118.99,1634,Okanogan,1159
+SNTL,WA,gold mountain ,Wilmont Creek (170200011703),2010-10-01,2023-05-07,48.19,-118.46,1338,Ferry,1256
+SNTL,AZ,beaver spring ,Tsaile Creek-Tsaile Lake (140802040401),2009-10-01,2023-05-07,36.33,-109.06,2821,Apache,1143
+SNTL,MT,blacktail mtn ,Ronan Creek (170102080302),2010-08-01,2023-05-07,47.98,-114.35,1722,Flathead,1144
+SNTL,NM,palo ,Headwaters Rio Fernando del Taos (130201010601),2010-08-01,2023-05-07,36.41,-105.33,2848,Taos,1170
+SNTL,NM,shuree ,Comanche Creek (130201010102),2010-08-01,2023-05-07,36.79,-105.24,3076,Taos,1169
+SNTL,NM,taos powderhorn ,Headwaters Arroyo Hondo (130201010701),2010-08-01,2023-05-07,36.58,-105.46,3367,Taos,1168
+SNTL,NV,porter canyon ,Porter Canyon-Porter Creek (160600020102),2009-10-01,2023-05-07,39.47,-117.62,2191,Lander,2170
+SNTL,NV,toe jam ,Toe Jam Creek (160401060202),2009-10-01,2023-05-07,41.32,-116.34,2344,Elko,1136
+SNTL,UT,blacks fork jct ,Lower Cottonwood Creek (140401070303),2010-09-01,2023-05-07,40.96,-110.58,2703,Summit,1162
+SNTL,UT,burts miller ranch ,West Fork Bear River (160101010105),2009-10-01,2023-05-07,40.98,-110.85,2438,Summit,1135
+SNTL,UT,garden city summit ,Garden City Canyon-Frontal Bear River (160102010106),2009-10-01,2023-05-07,41.92,-111.47,2348,Cache,1114
+SNTL,UT,klondike narrows ,Hells Kitchen Canyon-Logan River (160102030302),2009-10-01,2023-05-07,41.97,-111.6,2210,Cache,1115
+SNTL,UT,lakefork #3 ,Crystal Creek-Yellowstone River (140600030705),2009-10-01,2023-05-07,40.55,-110.35,2580,Duchesne,1116
+SNTL,UT,spirit lk ,Horseshoe Canyon-Green River (140401060501),2009-10-01,2023-05-07,40.84,-110.01,3120,Daggett,1117
+SNTL,UT,tony grove rs ,Tony Grove Creek (160102030304),2009-10-01,2023-05-07,41.89,-111.57,1930,Cache,1113
+SNTL,WA,trinity ,Phelps Creek (170200110302),2010-08-01,2023-05-07,48.07,-120.85,893,Chelan,1171
+SNTL,WY,castle creek ,Upper Wiggins Fork (100800010401),2010-08-01,2023-05-07,43.67,-109.38,2560,Fremont,1130
+SNTL,WY,larsen creek ,Pool Creek-Sweetwater River (101800060101),2010-08-01,2023-05-07,42.58,-109.09,2743,Sublette,1134
+SNTL,WY,little goose ,Sheep Creek-Tongue River (100901010105),2010-08-01,2023-05-07,44.54,-107.18,2704,Johnson,1131
+SNTL,WY,soldier park ,North Clear Creek (100902060103),2010-08-01,2023-05-07,44.35,-107.01,2658,Johnson,1132
+SNTL,AZ,baker butte smt ,Toms Creek (150602030103),2009-05-01,2023-05-07,34.46,-111.38,2363,Coconino,1140
+SNTL,AZ,chalender ,Pitman Valley-Scholz Lake (150602020305),2009-05-01,2023-05-07,35.26,-112.06,2144,Coconino,1139
+SNTL,CO,elliot ridge ,Deep Creek-Blue River (140100020602),2009-08-01,2023-05-07,39.86,-106.42,3215,Summit,1120
+SNTL,CO,hourglass lake ,Beaver Creek (101900070101),2008-10-01,2023-05-07,40.58,-105.63,2870,Larimer,1122
+SNTL,CO,long draw resv ,La Poudre Pass Creek (101900070203),2008-10-01,2023-05-07,40.51,-105.77,3050,Larimer,1123
+SNTL,CO,moon pass ,California Gulch (130100040201),2008-10-01,2023-05-07,37.97,-106.56,3392,Saguache,1124
+SNTL,CO,sargents mesa ,Middle Creek (130100040306),2008-10-01,2023-05-07,38.29,-106.37,3505,Saguache,1128
+SNTL,CO,upper taylor ,Upper Taylor River (140200010101),2009-08-01,2023-05-07,38.99,-106.75,3267,Gunnison,1141
+SNTL,ID,pierce r.s. ,Upper Orofino Creek (170603060401),2009-09-01,2023-05-07,46.5,-115.8,939,Clearwater,1142
+SNTL,NM,navajo whiskey ck ,Whiskey Creek (Local Drainage) (140802040206),2009-05-01,2023-05-07,36.18,-108.95,2763,San Juan,1138
+SNTL,NV,bristlecone trail ,Lee Canyon (150100150206),2008-10-01,2023-05-07,36.32,-115.7,2710,Clark,1111
+SNTL,NV,lee canyon ,Lee Canyon (150100150206),2008-10-01,2023-05-07,36.31,-115.68,2629,Clark,1112
+SNTL,NV,rainbow canyon ,Kyle Canyon (150100150301),2008-10-01,2023-05-07,36.25,-115.63,2396,Clark,1110
+SNTL,WA,brown top ,Little Beaver Creek (171100050601),2009-09-01,2023-05-07,48.93,-121.2,1777,Whatcom,1080
+SNTL,WA,indian rock ,Headwaters Little Klickitat River (170701060301),2008-10-01,2023-05-07,45.99,-120.81,1634,Klickitat,1129
+SNTL,WY,blackhall mtn ,Billie Creek-Encampment River (101800020504),2009-08-01,2023-05-07,41.06,-106.71,2999,Carbon,1119
+SNTL,WY,pocket creek ,Cottonwood Creek (140401020505),2009-09-01,2023-05-07,42.71,-109.41,2853,Sublette,1133
+SNTL,AK,chisana ,Red Hill Creek-Chisana River (190803010305),2007-10-01,2023-05-07,62.07,-142.05,1012,Valdez-cordova,1093
+SNTL,AZ,fort valley ,Upper Rio de Flag (150200150102),2008-06-01,2023-05-07,35.27,-111.74,2247,Coconino,1121
+SNTL,AZ,mormon mtn summit ,Walnut Creek-Upper Lake Mary (150200150202),2008-06-01,2023-05-07,34.97,-111.51,2579,Coconino,1125
+SNTL,AZ,nutrioso ,San Francisco River-Luna Lake (150400040301),2008-06-01,2023-05-07,33.9,-109.15,2612,Apache,1127
+SNTL,MT,east boulder mine ,Upper East Boulder River (100700020701),2008-06-01,2023-05-07,45.5,-110.08,1931,Sweet Grass,1105
+SNTL,MT,elk peak ,Alabaugh Creek (100402010203),2008-07-01,2023-05-07,46.48,-110.71,2316,Meagher,1106
+SNTL,UT,jones corral ,East Fork Sevier River Outlet (160300020507),2007-10-01,2023-05-07,38.07,-112.17,2971,Garfield,1099
+SNTL,UT,timberline ,Grassy Trail Reservoir-Grassy Trail Creek (140600070903),2007-10-01,2023-05-07,39.68,-110.43,2663,Carbon,1097
+SNTL,UT,usu doc daniel ,Big Creek (160102010103),2007-10-01,2023-05-07,41.86,-111.51,2521,Rich,1098
+SNTL,WA,buckinghorse ,Headwaters Elwha River (171100200501),2008-06-01,2023-05-07,47.71,-123.46,1484,Jefferson,1107
+SNTL,WA,calamity ,Lower Canyon Creek (170800020603),2008-08-01,2023-05-07,45.9,-122.22,762,Skamania,1109
+SNTL,WA,easy pass ,Indian Creek-Chilliwack River (171100010101),2008-09-01,2023-05-07,48.86,-121.44,1606,Whatcom,998
+SNTL,AK,may creek ,Lower Young Creek (190201031603),2006-10-01,2023-05-07,61.35,-142.71,491,Valdez-cordova,1096
+SNTL,AK,sugarloaf mtn ,Solomon Gulch (190202011101),2006-10-01,2023-05-07,61.08,-146.3,168,Valdez-cordova,1095
+SNTL,CO,chapman tunnel ,Deeds Creek-Fryingpan River (140100040504),2007-09-01,2023-05-07,39.26,-106.63,3078,Pitkin,1101
+SNTL,CO,hayden pass ,Piney Creek-San Luis Creek (130100030301),2007-08-01,2023-05-07,38.29,-105.85,3261,Saguache,1102
+SNTL,CO,saint elmo ,Headwaters Chalk Creek (110200010501),2007-08-01,2023-05-07,38.7,-106.37,3185,Chaffee,1100
+SNTL,OR,milk shakes ,Upper Mill Creek (170701020201),2007-05-01,2023-05-07,45.98,-117.95,1701,Wallowa,1079
+SNTL,OR,swan lake mtn ,Grizzly Butte (180102040802),2006-10-01,2023-05-07,42.41,-121.68,2082,Klamath,1077
+SNTL,WA,cayuse pass ,Headwaters White River (171100140301),2006-10-01,2023-05-07,46.87,-121.53,1597,Pierce,1085
+SNTL,WA,lynn lake ,Howard Hansen Dam-Green River (171100130203),2007-08-01,2023-05-07,47.2,-121.78,1189,King,1069
+SNTL,WA,pepper creek ,Little Creek-Lewis River (170800020111),2007-08-01,2023-05-07,46.1,-121.96,652,Skamania,1104
+SNTL,AK,tokositna valley ,Upper Tokositna River (190205020903),2005-10-01,2023-05-07,62.63,-150.78,259,Matanuska-susitna,1089
+SNTL,AK,upper nome creek ,Sumner Creek-Nome Creek (190804020304),2005-10-01,2023-05-07,65.37,-146.59,768,Yukon-koyukuk,1090
+SNTL,ID,ragged mountain ,Rathdrum Creek (170103050302),2006-08-01,2023-05-07,47.86,-117.04,1283,Kootenai,1081
+SNTL,NM,tres ritos ,Osha Canyon-Rio Pueblo (130201010903),2006-09-01,2023-05-07,36.13,-105.53,2669,Taos,1083
+SNTL,OR,miller woods ,Baker Creek (170900080606),2006-09-01,2023-05-07,45.25,-123.28,128,Yamhill,1084
+SNTL,OR,sun pass ,Egan Spring-Williamson River (180102010602),2006-06-01,2023-05-07,42.79,-121.98,1646,Klamath,1078
+SNTL,WA,marten ridge ,Swift Creek (171100051004),2006-07-01,2023-05-07,48.76,-121.7,1073,Whatcom,999
+SNTL,WA,sawmill ridge ,Lester Creek-Green River (171100130104),2006-07-01,2023-05-07,47.16,-121.42,1414,King,1068
+SNTL,WY,grand targhee ,Spring Creek (170402040202),2006-08-01,2023-05-07,43.78,-110.93,2822,Teton,1082
+SNTL,AK,anchorage hillside ,South Fork Campbell Creek (190204010601),2004-10-01,2023-05-07,61.11,-149.67,634,Anchorage,1070
+SNTL,AK,esther island ,Esther Lake-Frontal Prince William Sound (190202011605),2004-10-01,2023-05-07,60.8,-148.09,15,Valdez-cordova,1071
+SNTL,AK,kantishna ,Moose Creek (190803101805),2004-10-01,2023-05-07,63.54,-150.99,472,Denali,1072
+SNTL,AK,mt. eyak ,Orca Inlet-Frontal Prince William Sound (190202010200),2004-10-01,2023-05-07,60.55,-145.75,428,Valdez-cordova,1073
+SNTL,CA,carson pass ,Caples Creek (180201290101),2004-10-01,2023-05-07,38.69,-120,2548,Alpine,1067
+SNTL,CO,bear river ,Yamcolo Reservoir-Bear River (140500010102),2004-10-01,2023-05-07,40.06,-107.01,2777,Routt,1061
+SNTL,CO,sharkstooth ,Bear Creek (140300020206),2004-10-01,2023-05-07,37.5,-108.11,3276,Montezuma,1060
+SNTL,UT,gardner peak ,Grass Valley Creek (150100080701),2004-10-01,2023-05-07,37.4,-113.46,2537,Washington,1066
+SNTL,UT,gutz peak ,Pine Park Canyon (150100100101),2004-10-01,2023-05-07,37.5,-113.94,2061,Washington,1065
+SNTL,UT,lightning ridge ,Left Fork South Fork Ogden River (160201020201),2004-10-01,2023-05-07,41.36,-111.49,2504,Weber,1056
+SNTL,CA,burnside lake ,Hot Springs Creek (160502010107),2003-10-01,2023-05-07,38.72,-119.89,2478,Alpine,1051
+SNTL,CA,forestdale creek ,Upper West Fork Carson River (160502010301),2003-10-01,2023-05-07,38.68,-119.96,2444,Alpine,1049
+SNTL,CA,horse meadow ,Middle West Fork Carson River (160502010302),2003-10-01,2023-05-07,38.84,-119.89,2608,Alpine,1050
+SNTL,CA,summit meadow ,Mill Creek (160503020203),2003-10-01,2023-05-07,38.4,-119.54,2839,Mono,1052
+SNTL,CO,cochetopa pass ,Luders Creek (130100040203),2004-09-01,2023-05-07,38.16,-106.6,3067,Saguache,1059
+SNTL,CO,glen cove ,Headwaters Fountain Creek (110200030201),2004-08-01,2023-05-07,38.88,-105.08,3472,Teller,1057
+SNTL,CO,grayback ,East Fork Pinos Creek (130100020101),2004-09-01,2023-05-07,37.47,-106.54,3544,Rio Grande,1058
+SNTL,ID,myrtle creek ,Myrtle Creek (170101040701),2003-10-01,2023-05-07,48.72,-116.46,1073,Boundary,1053
+SNTL,OR,toketee airstrip ,Lower Fish Creek (171003010404),2003-10-01,2023-05-07,43.23,-122.43,988,Douglas,1044
+SNTL,UT,farmington lower ,Farmington Creek-Frontal Farmington Bay (160201020502),2003-11-01,2023-05-07,40.99,-111.82,2066,Davis,1054
+SNTL,WY,little snake river ,Little Snake River-Tennessee Creek (140500030103),2004-07-01,2023-05-07,41.07,-106.94,2721,Carbon,1047
+SNTL,AK,kachemak creek ,Bradley Lake (190203011101),2003-09-01,2019-07-01,59.73,-150.66,506,Kenai Peninsula,1063
+SNTL,AK,nenana ,Little Goldstream Creek (190803090803),2002-10-01,2023-05-07,64.69,-148.91,126,Yukon-koyukuk,2081
+SNTL,AK,prudhoe bay ,190604010102 (190604010102),2002-10-01,2023-05-07,70.27,-148.57,9,North Slope,1177
+SNTL,AK,tok ,Tanacross (190803020903),2002-10-01,2023-05-07,63.35,-142.98,497,Southeast Fairbanks,2080
+SNTL,AK,upper tsaina river ,Middle Tsina River (190201040203),2002-10-01,2023-05-07,61.19,-145.65,533,Valdez-cordova,1055
+SNTL,CO,beaver ck village ,Beaver Creek-Eagle Creek (140100030301),2002-11-01,2023-05-07,39.6,-106.51,2611,Eagle,1041
+SNTL,CO,mccoy park ,June Creek-Eagle River (140100030302),2002-10-01,2023-05-07,39.6,-106.54,2900,Eagle,1040
+SNTL,CO,wild basin ,Headwaters North Saint Vrain Creek (101900050202),2002-12-01,2023-05-07,40.2,-105.6,2877,Boulder,1042
+SNTL,NM,mcknight cabin ,Sheppard Canyon-Mimbres River (130302020103),2003-09-01,2023-05-07,33.01,-107.87,2817,Grant,1048
+SNTL,UT,cascade mountain ,Rock Canyon-Provo RIver (160202030505),2002-10-01,2023-05-07,40.28,-111.61,2370,Utah,1039
+SNTL,WA,mf nooksack ,Clearwater Creek (171100040303),2002-10-01,2023-05-07,48.82,-121.93,1515,Whatcom,1011
+SNTL,WA,sentinel butte ,West Deer Creek (170200021705),2003-08-01,2023-05-07,48.86,-118.4,1426,Ferry,1043
+SNTL,WY,crow creek ,North Fork Crow Creek (101900090104),2003-08-01,2023-05-07,41.23,-105.39,2541,Albany,1045
+SNTL,AK,aniak ,Aniak Slough-Kuskokwim River (190305020504),2002-07-01,2023-05-07,61.58,-159.58,24,Bethel,2065
+SNTL,AK,moraine ,Eklutna Lake (190204010103),2001-10-01,2023-05-07,61.38,-149,640,Anchorage,1035
+SNTL,CO,arapaho ridge ,Rabbit Ears Creek-Troublesome Creek (140100010604),2002-08-01,2023-05-07,40.35,-106.38,3345,Grand,1030
+SNTL,CO,never summer ,Jack Creek (101800010401),2002-09-01,2023-05-07,40.4,-105.96,3146,Jackson,1031
+SNTL,CO,rawah ,Middle Canadian River (101800010603),2002-09-01,2023-05-07,40.71,-106.01,2764,Jackson,1032
+SNTL,CO,zirkel ,Middle North Fork North Platte River (101800010202),2002-08-01,2023-05-07,40.79,-106.6,2846,Jackson,1033
+SNTL,ID,long valley ,Lake Fork Creek (170501230206),2001-10-01,2023-05-07,44.79,-116.09,1490,Valley,1016
+SNTL,ID,schweitzer saddle ,Middle Fork East River-East River (170102150502),2002-09-01,2008-10-01,48.37,-116.64,1862,Bonner,1038
+SNTL,NM,sierra blanca ,Upper Rio Ruidoso (130600080103),2002-09-01,2023-05-07,33.41,-105.79,3130,Lincoln,1034
+SNTL,NM,vacas locas ,Headwaters Rio de Las Vacas (130202020102),2001-10-01,2023-05-07,36.03,-106.81,2854,Rio Arriba,1017
+SNTL,UT,temple fork ,Temple Fork (160102030303),2001-11-01,2023-05-07,41.79,-111.55,2257,Cache,1013
+SNTL,WA,swift creek ,Swift Creek (170800020304),2001-10-01,2023-05-07,46.16,-122.18,1353,Skamania,1012
+SNTL,WY,sage creek basin ,Little Jack Creek (101800020802),2001-10-01,2023-05-07,41.4,-107.26,2393,Carbon,1015
+SNTL,AK,johnsons camp ,Pine Creek (190501042003),2000-10-01,2023-05-07,64.56,-164.29,8,Nome,1036
+SNTL,CO,middle fork camp ,Headwaters Williams Fork (140100010402),2001-09-01,2023-05-07,39.8,-106.03,2734,Grand,1014
+SNTL,ID,moscow mountain ,Little Bear Creek (170603061002),2000-10-01,2023-05-07,46.81,-116.85,1433,Latah,989
+SNTL,ID,smiley mountain ,Lower Star Hope Creek (170402180102),2001-09-01,2023-05-07,43.73,-113.83,2902,Custer,926
+SNTL,ID,van wyck ,Lower North Crane Creek (170501240902),2000-10-01,2023-05-07,44.38,-116.34,1500,Washington,979
+SNTL,NV,lewis peak ,Trout Creek (160401070903),2000-10-01,2023-05-07,40.36,-116.86,2246,Lander,1006
+SNTL,OR,crazyman flat ,Paradise Creek (180102020101),2001-09-01,2023-05-07,42.64,-120.95,1884,Klamath,1010
+SNTL,UT,clayton springs ,Coyote Hollow-Antimony Creek (160300020501),2000-10-01,2023-05-07,37.97,-111.83,3063,Garfield,983
+SNTL,WA,beaver pass ,Upper Big Beaver Creek (171100050605),2000-10-01,2023-05-07,48.88,-121.26,1106,Whatcom,990
+SNTL,WA,hozomeen camp ,Silver Creek-Ross Lake (171100050602),2000-10-01,2023-05-07,48.98,-121.08,515,Whatcom,991
+SNTL,AK,pargon creek ,Slate Creek-Fish River (190501040905),1999-10-01,2023-05-07,64.99,-163.1,30,Nome,986
+SNTL,AK,port graham ,Port Graham-Frontal Cook Inlet (190203011208),1999-10-01,2023-05-07,59.35,-151.85,91,Kenai Peninsula,987
+SNTL,CA,crowder flat ,Mosquito Creek-Willow Creek (180102040103),1999-10-01,2023-05-07,41.89,-120.75,1576,Modoc,977
+SNTL,CO,ute creek ,East Fork Ute Creek (130100020604),2000-08-01,2023-05-07,37.61,-105.37,3272,Costilla,1005
+SNTL,ID,hidden lake ,Cow Creek (170101040502),2000-09-01,2023-05-07,48.89,-116.76,1536,Boundary,988
+SNTL,MT,burnt mtn ,Sand Creek (100700060802),2000-09-01,2023-05-07,45.24,-109.46,1792,Carbon,981
+SNTL,OR,annie springs ,Upper Annie Creek (180102030101),2000-09-01,2023-05-07,42.87,-122.17,1832,Klamath,1000
+SNTL,UT,louis meadow ,City Creek (160202040304),1999-10-01,2023-05-07,40.83,-111.76,2042,Salt Lake,972
+SNTL,UT,parrish creek ,Holbrook Creek-Frontal Farmington Bay (160201020501),1999-10-01,2023-05-07,40.93,-111.81,2359,Davis,971
+SNTL,WA,sourdough gulch ,Lick Creek (170601030202),2000-07-01,2023-05-07,46.24,-117.39,1219,Asotin,985
+SNTL,WA,spruce springs ,North Fork Asotin Creek (170601030201),2000-07-01,2023-05-07,46.18,-117.54,1737,Garfield,984
+SNTL,WA,swamp creek ,Upper Granite Creek (171100050503),1999-10-01,2023-05-07,48.57,-120.78,1198,Skagit,975
+SNTL,WY,cole canyon ,Middle Spearfish Creek (101202030302),2000-06-01,2023-05-07,44.49,-104.41,1801,Crook,982
+SNTL,AK,rocky point ,Golovnin Lagoon-Frontal Golovnin Bay (190501041103),1999-09-01,2023-05-07,64.53,-163.42,76,Nome,973
+SNTL,AZ,happy jack ,Brady Canyon (150602020604),1999-06-01,2023-05-07,34.75,-111.41,2298,Coconino,969
+SNTL,CO,jones pass ,Headwaters Williams Fork (140100010402),1999-09-01,2023-05-07,39.76,-105.91,3178,Grand,970
+SNTL,ID,bogus basin ,Cottonwood Creek-Shafer Creek (170501220201),1999-09-01,2023-05-07,43.76,-116.1,1932,Boise,978
+SNTL,ID,reynolds creek ,Lower Reynolds Creek (170501030604),1999-08-01,2023-05-07,43.29,-116.84,1707,Owyhee,2029
+SNTL,MT,sacajawea ,Upper Brackett Creek (100700030403),1999-09-01,2023-05-07,45.87,-110.93,1996,Gallatin,929
+SNTL,OR,gerber reservoir ,Gerber Reservoir (180102040508),1998-10-01,2023-05-07,42.21,-121.13,1490,Klamath,945
+SNTL,WA,burnt mountain ,Wilkeson Creek (171100140103),1999-07-01,2023-05-07,47.04,-121.94,1271,Pierce,942
+SNTL,WA,dungeness ,Headwaters Dungeness River (171100200301),1998-10-01,2023-05-07,47.87,-123.08,1222,Clallam,943
+SNTL,WA,waterhole ,Lillian Creek (171100200506),1999-09-01,2023-05-07,47.94,-123.43,1527,Clallam,974
+SNTL,WY,cinnabar park ,The Big Hollow (101800100503),1999-06-01,2023-05-07,41.24,-106.23,2959,Albany,1046
+SNTL,AK,eagle summit ,Porcupine Creek (190804010801),1997-10-01,2023-05-07,65.49,-145.41,1113,Yukon-koyukuk,960
+SNTL,AK,independence mine ,Fishhook Creek-Little Susitna River (190205051202),1997-10-01,2023-05-07,61.79,-149.28,1082,Matanuska-susitna,1091
+SNTL,AK,old independence mine ,Fishhook Creek-Little Susitna River (190205051202),1997-10-01,2023-05-07,61.79,-149.28,1082,Matanuska-susitna,1315
+SNTL,CO,buckskin joe ,Headwaters Middle Fork South Platte River (101900010102),1998-08-01,2023-05-07,39.3,-106.11,3403,Park,938
+SNTL,CO,echo lake ,Vance Creek (101900020801),1998-08-01,2023-05-07,39.66,-105.59,3260,Clear Creek,936
+SNTL,CO,jackwhacker gulch ,Geneva Creek (101900020201),1998-08-01,2023-05-07,39.57,-105.8,3369,Clear Creek,935
+SNTL,CO,lost dog ,Outlet North Fork Elk Creek (140500010203),1998-08-01,2023-05-07,40.82,-106.75,2843,Routt,940
+SNTL,CO,michigan creek ,Michigan Creek (101900010404),1998-08-01,2023-05-07,39.44,-105.91,3262,Park,937
+SNTL,CO,rough and tumble ,Headwaters South Fork South Platte River (101900010202),1998-08-01,2023-05-07,39.03,-106.08,3180,Park,939
+SNTL,NM,rice park ,Sawyer Creek (130202070203),1998-08-01,2023-05-07,35.24,-108.27,2590,Cibola,933
+SNTL,NM,tolby ,Ute Creek-Cimarron River (110800020107),1998-08-01,2023-05-07,36.47,-105.2,3115,Colfax,934
+SNTL,WA,huckleberry creek ,Silver Creek-White River (171100140307),1997-10-01,2023-05-07,47.07,-121.59,686,Pierce,928
+SNTL,WA,mowich ,Voight Creek (171100140105),1998-09-01,2023-05-07,46.93,-121.95,963,Pierce,941
+SNTL,WY,big goose ,Upper South Tongue River (100901010103),1998-07-01,2023-05-07,44.58,-107.2,2435,Sheridan,931
+SNTL,WY,gunsight pass ,Middle South Fork Fish Creek (170401020102),1998-09-01,2023-05-07,43.38,-109.88,2993,Sublette,944
+SNTL,AK,gobblers knob ,Outlet Prospect Creek (190901020403),1996-10-01,2023-05-07,66.75,-150.67,619,Yukon-koyukuk,962
+SNTL,AZ,snowslide canyon ,Bear Jaw Canyon (150200160201),1997-09-01,2023-05-07,35.34,-111.65,2970,Coconino,927
+SNTL,NM,elk cabin ,Headwaters Santa Fe River (130202010102),1996-10-01,2023-05-07,35.71,-105.81,2511,Santa Fe,921
+SNTL,NM,santa fe ,Headwaters Santa Fe River (130202010102),1996-10-01,2023-05-07,35.77,-105.78,3495,Santa Fe,922
+SNTL,OR,south fork bull run ,South Fork Bull Run River (170800010504),1997-09-01,2023-05-07,45.45,-122.03,820,Clackamas,925
+SNTL,WY,deer park ,Headwaters Little Popo Agie River (100800030101),1997-08-01,2023-05-07,42.59,-108.9,2957,Fremont,923
+SNTL,CO,medano pass ,Medano Creek (130100030604),1995-10-01,2023-05-07,37.85,-105.44,2947,Saguache,914
+SNTL,MT,albro lake ,South Willow Creek (100200050701),1996-09-01,2023-05-07,45.6,-111.96,2530,Madison,916
+SNTL,SD,north rapid creek ,North Fork Rapid Creek (101201100101),1996-08-01,2023-05-07,44.21,-103.79,1868,Lawrence,920
+SNTL,AK,coldfoot ,Slate Creek (190901010604),1994-10-01,2023-05-07,67.25,-150.18,317,Yukon-koyukuk,958
+SNTL,CO,buffalo park ,Red Dirt Creek (140100010706),1995-09-01,2023-05-07,40.23,-106.6,2819,Grand,913
+SNTL,ID,schwartz lake ,Basin Creek (170602040604),1995-09-01,2023-05-07,44.85,-113.84,2630,Lemhi,915
+SNTL,UT,agua canyon ,East Fork Sevier River Headwaters (160300020301),1994-10-01,2023-05-07,37.52,-112.27,2713,Kane,907
+SNTL,UT,dry fork ,Bingham Creek (160202040106),1994-10-01,2023-05-07,40.57,-112.17,2162,Salt Lake,906
+SNTL,WA,elbow lake ,Wanlick Creek-South Fork Nooksack River (171100040401),1995-08-01,2023-05-07,48.69,-121.91,927,Whatcom,910
+SNTL,WA,rex river ,Rex River (171100120102),1995-08-01,2023-05-07,47.3,-121.6,1161,King,911
+SNTL,WA,skookum creek ,Upper South Fork Tolt River (171100100503),1995-08-01,2023-05-07,47.68,-121.61,1009,King,912
+SNTL,WA,wells creek ,Wells Creek (171100040103),1995-08-01,2023-05-07,48.87,-121.79,1228,Whatcom,909
+SNTL,AZ,beaver head ,Upper Beaver Creek (150601010107),1993-10-01,2023-05-07,33.69,-109.22,2462,Greenlee,902
+SNTL,CO,columbus basin ,Headwaters La Plata River (140801050101),1994-08-01,2023-05-07,37.44,-108.02,3286,La Plata,904
+SNTL,CO,mancos ,West Mancos River (140801070102),1994-08-01,2023-05-07,37.43,-108.17,3061,Montezuma,905
+SNTL,MT,stuart mountain ,Lower Rattlesnake Creek (170102040102),1994-07-01,2023-05-07,47,-113.93,2256,Missoula,901
+SNTL,UT,hardscrabble ,Hardscrabble Creek (160201020105),1993-10-01,2023-05-07,40.87,-111.72,2210,Morgan,896
+SNTL,WA,alpine meadows ,Upper North Fork Tolt River (171100100501),1994-09-01,2023-05-07,47.78,-121.7,1067,King,908
+SNTL,WA,meadows pass ,Headwaters Cedar River (171100120101),1993-10-01,2023-05-07,47.28,-121.47,985,King,897
+SNTL,WA,mount gardner ,Chester Morse Lake-Cedar River (171100120103),1993-10-01,2023-05-07,47.36,-121.57,890,King,898
+SNTL,WA,tinkham creek ,Headwaters Cedar River (171100120101),1993-10-01,2023-05-07,47.33,-121.47,911,King,899
+SNTL,WY,tie creek ,Lower Big Goose Creek (100901010205),1994-08-01,2023-05-07,44.81,-107.41,2094,Sheridan,818
+SNTL,AK,fort yukon ,Seventeen Mile Slough-Yukon River (190705062100),1992-10-01,2023-05-07,66.57,-145.25,131,Yukon-koyukuk,961
+SNTL,ID,chocolate gulch ,Eagle Creek-Big Wood River (170402190301),1992-10-01,2023-05-07,43.77,-114.42,1923,Blaine,895
+SNTL,MT,onion park ,Upper Tenderfoot Creek (100301030801),1992-10-01,2023-05-07,46.91,-110.85,2259,Meagher,1008
+SNTL,MT,stringer creek ,Upper Tenderfoot Creek (100301030801),1992-10-01,2023-05-07,46.93,-110.9,1996,Meagher,1009
+SNTL,AK,kelly station ,190504030802-Noatak River (190504030802),1991-10-01,2023-05-07,67.93,-162.28,94,Northwest Arctic,1175
+SNTL,CO,ivanhoe ,Headwaters Fryingpan River (140100040501),1991-10-01,2023-05-07,39.29,-106.55,3213,Pitkin,547
+SNTL,CO,loveland basin ,Headwaters Clear Creek (101900040102),1991-10-01,2023-05-07,39.67,-105.9,3483,Clear Creek,602
+SNTL,ID,camas creek divide ,Sheep Creek-Camas Creek (170402200101),1991-10-01,2023-05-07,43.27,-115.35,1740,Elmore,382
+SNTL,MT,brackett creek ,Upper Brackett Creek (100700030403),1992-08-01,2023-05-07,45.89,-110.94,2231,Gallatin,365
+SNTL,WA,moses mtn ,Upper Omak Creeek (170200061903),1991-10-01,2023-05-07,48.36,-119.08,1527,Okanogan,644
+SNTL,WY,grave springs ,Upper Buffalo Creek (100902010103),1991-10-01,2023-05-07,43.47,-107.24,2606,Natrona,501
+SNTL,CA,monitor pass ,Leviathan Canyon (160502010201),1990-10-01,2023-05-07,38.67,-119.61,2532,Alpine,633
+SNTL,CO,south colony ,Colony Creek-Grape Creek (110200011206),1990-10-01,2023-05-07,37.97,-105.54,3313,Custer,773
+SNTL,AK,middle fork bradley ,Bradley River (190203011102),1989-10-01,2023-05-07,59.78,-150.76,701,Kenai Peninsula,1064
+SNTL,AK,moore creek bridge ,West Creek (190103030203),1989-10-01,2023-05-07,59.59,-135.21,686,Skagway,1176
+SNTL,AK,nuka glacier ,Bradley Lake (190203011101),1989-10-01,2023-05-07,59.7,-150.71,381,Kenai Peninsula,1037
+SNTL,CA,leavitt lake ,Leavitt Creek-West Walker River (160503020104),1989-10-01,2023-05-07,38.28,-119.61,2927,Mono,574
+SNTL,CO,cascade #2 ,Headwaters Cascade Creek (140801040201),1990-09-01,2023-05-07,37.66,-107.8,2747,San Juan,387
+SNTL,ID,mica creek ,Mica Creek (170103040604),1989-10-01,2023-05-07,47.15,-116.27,1375,Shoshone,623
+SNTL,ID,wilson creek ,Upper Wilson Creek (170402130202),1989-10-01,2023-05-07,42.01,-115,2170,Twin Falls,871
+SNTL,SD,blind park ,Upper Castle Creek (101201100104),1989-10-01,2023-05-07,44.11,-103.98,2100,Pennington,354
+SNTL,WA,lost horse ,Upper Simcoe Creek (170300030302),1989-10-01,2023-05-07,46.36,-121.08,1561,Yakima,599
+SNTL,WA,mount crag ,Tunnel Creek (171100180601),1989-10-01,2023-05-07,47.76,-123.03,1207,Jefferson,648
+SNTL,WY,snake river station ,Upper Pacific Creek (170401010402),1989-10-01,2023-05-07,44.13,-110.67,2109,Teton,764
+SNTL,AK,grouse creek divide ,South Fork Snow River (190203020902),1988-10-01,2023-05-07,60.26,-149.34,213,Kenai Peninsula,964
+SNTL,AK,summit creek ,Headwaters Canyon Creek (190203020401),1988-10-01,2023-05-07,60.62,-149.53,427,Kenai Peninsula,955
+SNTL,CO,overland res. ,Cow Creek (140200040101),1988-10-01,2023-05-07,39.09,-107.64,3015,Delta,675
+SNTL,CO,trinchera ,North Fork Trinchera Creek (130100020601),1988-10-01,2023-05-07,37.35,-105.23,3329,Costilla,829
+SNTL,ID,pine creek pass ,Upper Trail Creek (170402040101),1988-10-01,2023-05-07,43.57,-111.21,2048,Teton,695
+SNTL,ID,sedgwick peak ,Dempsey Creek (170402080209),1988-10-01,2023-05-07,42.52,-111.96,2393,Bannock,741
+SNTL,MT,bisson creek ,Mud Creek (170102120602),1988-10-01,2023-05-07,47.68,-114,1500,Lake,346
+SNTL,MT,lone mountain ,South Fork West Fork Gallatin River (100200080201),1988-10-01,2023-05-07,45.27,-111.43,2707,Madison,590
+SNTL,MT,sleeping woman ,East Fork Valley Creek (170102120708),1988-10-01,2023-05-07,47.18,-114.33,1875,Sanders,783
+SNTL,NM,wesner springs ,Porvenir Canyon-Gallinas Creek (130600010802),1988-10-01,2023-05-07,35.78,-105.54,3399,San Miguel,854
+SNTL,NV,sheldon ,Catnip Creek (171200080106),1988-10-01,2023-05-07,41.9,-119.44,1788,Washoe,750
+SNTL,UT,mill-d north ,Headwaters Big Cottonwood Canyon (160202040201),1988-10-01,2023-05-07,40.66,-111.64,2732,Salt Lake,628
+SNTL,UT,snowbird ,Headwaters Little Cottonwood Canyon (160202040202),1989-08-01,2023-05-07,40.57,-111.66,2797,Salt Lake,766
+SNTL,MT,tizer basin ,Headwaters Crow Creek (100301010701),1987-10-01,2023-05-07,46.35,-111.85,2097,Jefferson,893
+SNTL,UT,lookout peak ,Parleys Creek (160202040302),1988-06-01,2023-05-07,40.84,-111.71,2487,Salt Lake,596
+SNTL,UT,mining fork ,South Willow Creek-Frontal Great Salt Lake (160203040503),1988-09-01,2023-05-07,40.49,-112.61,2528,Tooele,631
+SNTL,UT,thaynes canyon ,Kimball Creek (160201020101),1988-06-01,2023-05-07,40.62,-111.53,2813,Summit,814
+SNTL,WY,granite creek ,Muddy Creek (170401030304),1987-10-01,2023-05-07,43.34,-110.43,2063,Teton,497
+SNTL,AK,susitna valley high ,Little Montana Creek-Montana Creek (190205050105),1986-10-01,2023-05-07,62.13,-150.04,114,Matanuska-susitna,967
+SNTL,WA,thunder basin ,Upper Thunder Creek (171100050702),1987-09-01,2023-05-07,48.53,-120.99,1317,Skagit,817
+SNTL,WY,sylvan road ,Crow Creek (100800120103),1986-10-01,2023-05-07,44.48,-110.04,2170,Park,807
+SNTL,WY,thumb divide ,Lower Pelican Creek (100700010409),1987-09-01,2023-05-07,44.37,-110.58,2432,Teton,816
+SNTL,AK,granite crk ,Granite Creek (190803031306),1985-11-01,2023-05-07,63.94,-145.4,378,Southeast Fairbanks,963
+SNTL,AK,mcneil canyon ,Swift Creek-Frontal Kachemak Bay (190203010806),1985-10-01,2023-05-07,59.74,-151.25,402,Kenai Peninsula,1003
+SNTL,CO,columbine pass ,Potter Creek (140200050202),1985-10-01,2023-05-07,38.42,-108.38,2795,Montrose,409
+SNTL,CO,crosho ,Outlet Hunt Creek (140500010106),1985-10-01,2023-05-07,40.17,-107.06,2735,Rio Blanco,426
+SNTL,CO,el diente peak ,Cayton Valley-Dolores River (140300020202),1985-10-01,2023-05-07,37.79,-108.02,3114,Dolores,465
+SNTL,CO,mesa lakes ,Coon Creek (140100051307),1985-10-01,2023-05-07,39.06,-108.06,3099,Mesa,622
+SNTL,CO,molas lake ,Tenmile Creek-Animas River (140801040302),1985-10-01,2023-05-07,37.75,-107.69,3240,San Juan,632
+SNTL,CO,nast lake ,Deeds Creek-Fryingpan River (140100040504),1985-10-01,2023-05-07,39.3,-106.61,2661,Pitkin,658
+SNTL,CO,rabbit ears ,Harrison Creek (140500010402),1985-10-01,2023-05-07,40.37,-106.74,2868,Routt,709
+SNTL,CO,ripple creek ,Snell Creek-North Fork White River (140500050102),1985-10-01,2023-05-07,40.11,-107.29,3155,Rio Blanco,717
+SNTL,CO,scotch creek ,Scotch Creek-Dolores River (140300020204),1985-10-01,2023-05-07,37.65,-108.01,2803,Dolores,739
+SNTL,CO,spud mountain ,Lime Creek (140801040202),1985-10-01,2023-05-07,37.7,-107.78,3253,San Juan,780
+SNTL,CO,stillwater creek ,Stillwater Creek (140100010306),1985-10-01,2023-05-07,40.23,-105.92,2707,Grand,793
+SNTL,CO,stump lakes ,Virginia Gulch-Florida River (140801040702),1985-10-01,2023-05-07,37.48,-107.63,3428,La Plata,797
+SNTL,CO,trapper lake ,Headwaters North Fork White River (140500050101),1985-10-01,2023-05-07,40,-107.24,2975,Garfield,827
+SNTL,CO,upper rio grande ,Rio Grande Reservoir (130100010106),1985-10-01,2023-05-07,37.72,-107.26,2859,Hinsdale,839
+SNTL,CO,vallecito ,Indian Creek-Los Pinos River (140801011105),1985-10-01,2023-05-07,37.49,-107.51,3286,La Plata,843
+SNTL,CO,wolf creek summit ,Wolf Creek (140801010203),1985-10-01,2023-05-07,37.48,-106.8,3340,Mineral,874
+SNTL,ID,brundage reservoir ,Upper Goose Creek (170602100104),1985-10-01,2023-05-07,45.04,-116.13,1905,Adams,370
+SNTL,ID,soldier r.s. ,Upper Soldier Creek (170402200303),1985-10-01,2023-05-07,43.48,-114.83,1750,Camas,769
+SNTL,MT,short creek ,Lazyman Creek-Ruby River (100200030106),1985-10-01,2023-05-07,44.98,-111.95,2134,Madison,753
+SNTL,UT,brighton ,Headwaters Big Cottonwood Canyon (160202040201),1986-09-01,2023-05-07,40.6,-111.58,2672,Salt Lake,366
+SNTL,UT,camp jackson ,Johnson Creek (140802010301),1985-10-01,2023-05-07,37.81,-109.49,2700,San Juan,383
+SNTL,UT,donkey reservoir ,Donkey Creek-Fremont River (140700030305),1985-10-01,2023-05-07,38.21,-111.47,2987,Wayne,452
+SNTL,UT,east willow creek ,Tenmmile Canyon (140600060205),1986-08-01,2023-05-07,39.31,-109.53,2530,Grand,461
+SNTL,UT,little grassy ,Little Pine Creek (160300061302),1985-10-01,2023-05-07,37.49,-113.85,1849,Washington,583
+SNTL,UT,long valley jct ,Headwaters East Fork Virgin River (150100080201),1986-06-01,2023-05-07,37.49,-112.51,2275,Kane,593
+SNTL,WA,quartz peak ,Upper Deadman Creek (170103080302),1985-10-01,2023-05-07,47.88,-117.09,1433,Spokane,707
+SNTL,WY,battle mountain ,West Fork Battle Creek (140500030109),1985-10-01,2023-05-07,41.05,-107.27,2285,Carbon,317
+SNTL,WY,whiskey park ,King Solomon Creek (140500030102),1985-10-01,2023-05-07,41,-106.91,2749,Carbon,859
+SNTL,CO,bison lake ,Headwaters Deep Creek (140100011401),1985-09-01,2023-05-07,39.76,-107.36,3342,Garfield,345
+SNTL,CO,north lost trail ,Yule Creek-Crystal River (140100040703),1984-10-01,2023-05-07,39.08,-107.14,2810,Gunnison,669
+SNTL,CO,schofield pass ,South Fork Crystal River (140100040701),1984-10-01,2023-05-07,39.01,-107.05,3247,Gunnison,737
+SNTL,UT,hewinta ,West Fork Smiths Fork (140401070203),1985-09-01,2023-05-07,40.95,-110.48,2896,Summit,521
+SNTL,UT,hickerson park ,Horseshoe Canyon-Green River (140401060501),1985-09-01,2023-05-07,40.91,-109.96,2780,Daggett,522
+SNTL,UT,hole-in-rock ,Lower Upper Marsh Creek (140401060205),1985-09-01,2023-05-07,40.92,-110.19,2794,Summit,528
+SNTL,UT,pine creek ,Pine Creek (160300051307),1985-02-01,2023-05-07,38.88,-112.25,2662,Millard,694
+SNTL,WY,east rim divide ,Nowlin Creek (170401030203),1984-10-01,2023-05-07,43.13,-110.2,2417,Sublette,460
+SNTL,WY,hams fork ,West Beaver Creek-Hams Fork (140401070504),1984-10-01,2023-05-07,42.15,-110.68,2390,Lincoln,509
+SNTL,WY,kendall r.s. ,Miner Creek-North Beaver Creek (140401010302),1984-10-01,2023-05-07,43.25,-110.02,2359,Sublette,555
+SNTL,WY,new fork lake ,Upper Pine Creek (140401020201),1984-10-01,2023-05-07,43.11,-109.95,2542,Sublette,661
+SNTL,WY,sandstone rs ,Little Sandstone Creek (140500030208),1984-10-01,2023-05-07,41.11,-107.17,2485,Carbon,732
+SNTL,WY,south pass ,Headwaters Little Popo Agie River (100800030101),1984-10-01,2023-05-07,42.57,-108.84,2755,Fremont,775
+SNTL,WY,triple peak ,Lower Horse Creek (140401010503),1984-10-01,2023-05-07,42.76,-110.59,2591,Sublette,831
+SNTL,AK,monahan flat ,West Fork Susitna River (190205010304),1983-10-01,2023-05-07,63.31,-147.65,826,Matanuska-susitna,1094
+SNTL,AK,point mackenzie ,Stephan Lake-Goose Creek (190204010805),1983-10-01,2015-08-01,61.39,-150.03,76,Matanuska-susitna,1002
+SNTL,AK,upper chena ,Headwaters Middle Fork Chena River (190803060102),1983-10-01,2023-05-07,65.1,-144.93,869,Fairbanks North Star,952
+SNTL,AZ,wildcat ,Centerfire Creek (150601010109),1983-10-01,2023-05-07,33.74,-109.48,2398,Apache,866
+SNTL,CA,adin mtn ,Cottonwood Creek (180200021403),1983-10-01,2023-05-07,41.24,-120.79,1887,Modoc,301
+SNTL,CA,spratt creek ,Hot Springs Creek (160502010107),1983-10-01,2023-05-07,38.67,-119.82,1848,Alpine,778
+SNTL,ID,cool creek ,Cold Springs Creek-North Fork Clearwater River (170603070702),1983-10-01,2023-05-07,46.76,-115.3,1914,Clearwater,411
+SNTL,ID,crater meadows ,Middle Weitas Creek (170603070502),1983-10-01,2023-05-07,46.56,-115.29,1817,Clearwater,425
+SNTL,NV,big meadow ,Hunter Creek-Truckee River (160501020505),1983-10-01,2023-05-07,39.45,-119.94,2510,Washoe,340
+SNTL,NV,diamond peak ,Torre Creek-Slough Creek-Frontal Diamond Valley (160600051503),1983-10-01,2023-05-07,39.56,-115.84,2444,Eureka,443
+SNTL,NV,draw creek ,Upper T Creek (160401010403),1983-10-01,2023-05-07,41.66,-115.32,2235,Elko,454
+SNTL,WA,sasse ridge ,Upper Cle Elum River (170300010104),1983-10-01,2023-05-07,47.38,-121.06,1323,Kittitas,734
+SNTL,WA,spirit lake ,Headwaters North Fork Toutle River (170800050502),1983-10-01,2023-05-07,46.26,-122.18,1073,Skamania,777
+SNTL,WY,st. lawrence alt ,Middle North Fork Little Wind River (100800020105),1983-10-01,2023-05-07,43.03,-109.17,2627,Fremont,786
+SNTL,AK,grandview ,Headwaters Trail Creek (190203021001),1982-10-01,2023-05-07,60.61,-149.06,335,Kenai Peninsula,956
+SNTL,AK,kenai moose pens ,Upper Moose River (190203021601),1982-10-01,2023-05-07,60.73,-150.48,91,Kenai Peninsula,966
+SNTL,AK,kodiak ,Chiniak Bay (190207011506),1982-10-01,1986-10-01,57.75,-152.48,6,Kodiak Island,201
+SNTL,AK,sagwon ,190604010905 (190604010905),1982-10-01,2023-05-07,69.42,-148.69,305,North Slope,1183
+SNTL,ID,elk butte ,Upper Elk Creek (170603080701),1982-10-01,2023-05-07,46.84,-116.12,1734,Clearwater,466
+SNTL,ID,hemlock butte ,French Creek (170603070601),1982-10-01,2023-05-07,46.48,-115.63,1771,Clearwater,520
+SNTL,ID,lolo pass ,West Fork Lolo Creek (170102051401),1982-10-01,2023-05-07,46.63,-114.58,1597,Idaho,588
+SNTL,ID,savage pass ,Lower Colt Killed Creek (170603030208),1982-10-01,2023-05-07,46.47,-114.63,1887,Idaho,735
+SNTL,ID,shanghi summit ,Quartz Creek (170603060402),1982-10-01,2023-05-07,46.57,-115.74,1402,Clearwater,747
+SNTL,MT,dupuyer creek ,Upper Dupuyer Creek (100302010501),1982-10-01,2023-05-07,48.06,-112.76,1753,Teton,458
+SNTL,UT,lakefork basin ,Ottoson Creek-Lake Fork Creek (140600030601),1982-10-01,2023-05-07,40.74,-110.62,3318,Duchesne,513
+SNTL,AK,atigun pass ,Chandalar Shelf (190802010102),1981-10-01,2023-05-07,68.13,-149.48,1463,North Slope,957
+SNTL,AK,cooper lake ,Kenai Lake (190203021205),1981-10-01,2023-05-07,60.39,-149.69,366,Kenai Peninsula,959
+SNTL,AK,fairbanks f.o. ,Chena River (190803060907),1981-10-01,2020-07-01,64.85,-147.8,137,Fairbanks North Star,1174
+SNTL,AK,turnagain pass ,Granite Creek (190203020406),1981-10-01,2023-05-07,60.78,-149.18,573,Kenai Peninsula,954
+SNTL,NV,hole-in-mountain ,Winchell Creek-The Slough (160600071602),1981-10-01,2023-05-07,40.94,-115.1,2488,Elko,527
+SNTL,NV,jacks peak ,Upper Harrington Creek (170501050201),1981-10-01,2023-05-07,41.51,-116.01,2568,Elko,549
+SNTL,WA,green lake ,Headwaters North Fork Ahtnum Creek (170300030101),1981-10-01,2023-05-07,46.55,-121.17,1804,Yakima,502
+SNTL,AK,anchor river divide ,Headwaters Anchor River (190203010701),1980-10-01,2023-05-07,59.86,-151.32,504,Kenai Peninsula,1062
+SNTL,AK,bettles field ,Jack White Creek-Koyukuk River (190901012604),1980-10-01,2023-05-07,66.92,-151.53,195,Yukon-koyukuk,1182
+SNTL,AK,imnaviat creek ,Headwaters Toolik River (190604010702),1980-10-01,2023-05-07,68.62,-149.3,930,North Slope,968
+SNTL,AK,little chena ridge ,190803060706-Little Chena River (190803060706),1980-10-01,2023-05-07,65.12,-146.73,610,Fairbanks North Star,947
+SNTL,AK,mt. ryan ,Headwaters West Fork Chena River (190803060404),1980-10-01,2023-05-07,65.25,-146.15,853,Fairbanks North Star,948
+SNTL,AK,teuchet creek ,Teuchet Creek (190803060301),1980-10-01,2023-05-07,64.95,-145.52,500,Fairbanks North Star,951
+SNTL,CA,blue lakes ,Deer Creek (180400120101),1980-10-01,2023-05-07,38.61,-119.92,2459,Alpine,356
+SNTL,CA,css lab ,Rattlesnake Creek-South Yuba River (180201250602),1980-10-01,2023-05-07,39.33,-120.37,2101,Nevada,428
+SNTL,CA,echo peak ,Upper Truckee River-Frontal Lake Tahoe (160501010303),1980-10-01,2023-05-07,38.85,-120.08,2333,El Dorado,463
+SNTL,CA,independence creek ,Independence Creek (160501020102),1980-10-01,2023-05-07,39.49,-120.28,1962,Sierra,540
+SNTL,CA,leavitt meadows ,Leavitt Creek-West Walker River (160503020104),1980-10-01,2023-05-07,38.3,-119.55,2194,Mono,575
+SNTL,CA,poison flat ,Bryant Creek-East Fork Carson River (160502010102),1980-10-01,2023-05-07,38.51,-119.63,2358,Alpine,697
+SNTL,CA,rubicon #2 ,General Creek-Frontal Lake Tahoe (160501010402),1980-10-01,2023-05-07,39,-120.13,2322,El Dorado,724
+SNTL,CA,tahoe city cross ,Burton Creek-Frontal Lake Tahoe (160501010101),1980-10-01,2023-05-07,39.17,-120.15,2072,Placer,809
+SNTL,CA,truckee #2 ,Martis Creek (160501020204),1980-10-01,2023-05-07,39.3,-120.18,1984,Placer,834
+SNTL,NV,berry creek ,Berry Creek (160600081301),1980-10-01,2023-05-07,39.32,-114.62,2858,White Pine,334
+SNTL,NV,big creek sum ,Big Creek (160401070303),1980-10-01,2023-05-07,39.29,-117.12,2647,Lander,337
+SNTL,NV,buckskin lower ,Cabin Creek-Martin Creek (160401090502),1980-10-01,2023-05-07,41.75,-117.53,2112,Humboldt,373
+SNTL,NV,disaster peak ,Sage Creek (160402010201),1980-10-01,2023-05-07,41.97,-118.19,1908,Humboldt,445
+SNTL,NV,fawn creek ,Fawn Creek-Owyhee River (170501040304),1980-10-01,2023-05-07,41.82,-116.1,2143,Elko,476
+SNTL,NV,granite peak ,Indian Creek (160401090601),1980-10-01,2023-05-07,41.67,-117.57,2592,Humboldt,498
+SNTL,NV,green mountain ,Corral Creek (160401030401),1980-10-01,2023-05-07,40.38,-115.53,2495,Elko,503
+SNTL,NV,lamance creek ,Lamance Creek-Big Cottonwood Creek (160401090603),1980-10-01,2023-05-07,41.52,-117.63,1949,Humboldt,569
+SNTL,NV,lamoille #3 ,Thomas Creek-Lamoille Creek (160401010607),1980-10-01,2023-05-07,40.64,-115.38,2454,Elko,570
+SNTL,NV,mt rose ski area ,Hidden Valley-Steamboat Creek (160501020304),1980-10-01,2023-05-07,39.32,-119.89,2683,Washoe,652
+SNTL,NV,taylor canyon ,Upper Taylors Canyon Creek (170501050105),1980-10-01,2023-05-07,41.23,-116.03,1928,Elko,811
+SNTL,NV,ward mountain ,Holt Creek (150100110105),1980-10-01,2023-05-07,39.13,-114.96,2793,White Pine,849
+SNTL,OR,aneroid lake #2 ,West Fork Wallowa River-Wallowa River (170601050101),1980-10-01,2023-05-07,45.21,-117.19,2256,Wallowa,302
+SNTL,OR,railroad overpass ,Middle Salt Creek (170900010302),1980-10-01,2023-05-07,43.66,-122.21,817,Lane,710
+SNTL,OR,schneider meadows ,Clear Creek (170502010603),1980-10-01,2023-05-07,45,-117.17,1646,Baker,736
+SNTL,WA,june lake ,Swift Creek (170800020304),1980-10-01,2023-05-07,46.15,-122.15,1049,Skamania,553
+SNTL,WA,potato hill ,Muddy Fork Cispus River (170800040303),1980-10-01,2023-05-07,46.35,-121.51,1375,Yakima,702
+SNTL,WA,sheep canyon ,Headwaters South Fork Toutle River (170800050601),1980-10-01,2023-05-07,46.19,-122.25,1216,Cowlitz,748
+SNTL,WA,spencer meadow ,Cussed Hollow-Lewis River (170800020108),1980-10-01,2023-05-07,46.18,-121.93,1036,Skamania,776
+SNTL,WY,cold springs ,North Fork Bull Lake Creek (100800010702),1980-10-01,2023-05-07,43.28,-109.45,2935,Fremont,405
+SNTL,WY,cottonwood creek ,Lower Crow Creek-Salt River (170401050102),1980-10-01,2023-05-07,42.65,-110.81,2338,Lincoln,419
+SNTL,AK,monument creek ,Monument Creek (190803060402),1979-10-01,2023-05-07,65.08,-145.87,564,Fairbanks North Star,949
+SNTL,AK,munson ridge ,Rock Creek-Chena River (190803060602),1979-10-01,2023-05-07,64.85,-146.21,945,Fairbanks North Star,950
+SNTL,AZ,promontory ,Upper Willow Creek (150200080306),1979-10-01,2023-05-07,34.37,-111.01,2421,Coconino,705
+SNTL,CA,dismal swamp ,Dismal Creek-Deep Creek (171200070304),1979-10-01,2023-05-07,41.99,-120.18,2243,Modoc,446
+SNTL,CA,fallen leaf ,Fallen Leaf Lake-Frontal Lake Tahoe (160501010401),1979-10-01,2023-05-07,38.93,-120.05,1903,El Dorado,473
+SNTL,CA,palisades tahoe ,Squaw Creek-Truckee River (160501020202),1979-10-01,2023-05-07,39.19,-120.27,2442,Placer,784
+SNTL,CA,ward creek #3 ,Ward Creek-Frontal Lake Tahoe (160501010403),1979-10-01,2023-05-07,39.14,-120.22,2056,Placer,848
+SNTL,CO,apishapa ,Middle Creek-Cucharas River (110200060406),1979-10-01,2023-05-07,37.33,-105.07,3056,Huerfano,303
+SNTL,CO,bear lake ,Glacier Creek (101900060201),1979-10-01,2023-05-07,40.31,-105.65,2902,Larimer,322
+SNTL,CO,beartown ,Bear Creek-Rio Grande (130100010104),1979-10-01,2023-05-07,37.71,-107.51,3536,San Juan,327
+SNTL,CO,brumley ,North Fork Lake Creek (110200010101),1979-10-01,2023-05-07,39.09,-106.54,3229,Lake,369
+SNTL,CO,butte ,Washington Gulch-Slate River (140200010206),1979-10-01,2023-05-07,38.89,-106.95,3109,Gunnison,380
+SNTL,CO,copeland lake ,Headwaters North Saint Vrain Creek (101900050202),1979-10-01,2023-05-07,40.21,-105.57,2608,Boulder,412
+SNTL,CO,cumbres trestle ,Wolf Creek (130201020203),1979-10-01,2023-05-07,37.02,-106.45,3059,Conejos,431
+SNTL,CO,dry lake ,City of Steamboat Springs-Yampa River (140500010409),1979-10-01,2023-05-07,40.53,-106.78,2521,Routt,457
+SNTL,CO,fremont pass ,Upper Tenmile Creek (140100020301),1979-10-01,2023-05-07,39.38,-106.2,3452,Summit,485
+SNTL,CO,grizzly peak ,North Fork Snake River (140100020201),1979-10-01,2023-05-07,39.65,-105.87,3395,Summit,505
+SNTL,CO,hoosier pass ,Headwaters Middle Fork South Platte River (101900010102),1979-10-01,2023-05-07,39.36,-106.06,3539,Summit,531
+SNTL,CO,idarado ,Red Mountain Creek (140200060201),1979-10-01,2023-05-07,37.93,-107.68,2991,Ouray,538
+SNTL,CO,independence pass ,Lincoln Creek (140100040101),1979-10-01,2023-05-07,39.08,-106.61,3230,Pitkin,542
+SNTL,CO,kiln ,Deeds Creek-Fryingpan River (140100040504),1979-10-01,2023-05-07,39.32,-106.62,2933,Pitkin,556
+SNTL,CO,lily pond ,Headwaters Alamosa River (130100020302),1979-10-01,2023-05-07,37.38,-106.55,3374,Conejos,580
+SNTL,CO,lizard head pass ,Headwaters Dolores River (140300020201),1979-10-01,2023-05-07,37.8,-107.92,3107,Dolores,586
+SNTL,CO,lone cone ,Headwaters Beaver Creek (140300030302),1979-10-01,2023-05-07,37.89,-108.2,2973,San Miguel,589
+SNTL,CO,lynx pass ,Headwaters Rock Creek (140100011001),1979-10-01,2023-05-07,40.08,-106.67,2719,Routt,607
+SNTL,CO,mc clure pass ,Lee Creek (140200040203),1979-10-01,2023-05-07,39.13,-107.29,2674,Gunnison,618
+SNTL,CO,middle creek ,Headwaters Red Mountain Creek (130100010501),1979-10-01,2023-05-07,37.62,-107.04,3435,Mineral,624
+SNTL,CO,niwot ,North Boulder Creek (101900050401),1979-10-01,2023-05-07,40.04,-105.55,3042,Boulder,663
+SNTL,CO,park cone ,Taylor Park Reservoir (140200010107),1979-10-01,2023-05-07,38.82,-106.59,2932,Gunnison,680
+SNTL,CO,phantom valley ,Headwaters Colorado River (140100010302),1979-10-01,2023-05-07,40.4,-105.85,2757,Grand,688
+SNTL,CO,red mountain pass ,Mineral Creek (140801040103),1979-10-01,2023-05-07,37.89,-107.71,3377,San Juan,713
+SNTL,CO,roach ,Laramie River-Stuck Creek (101800100106),1979-10-01,2023-05-07,40.87,-106.05,2969,Larimer,718
+SNTL,CO,slumgullion ,Headwaters Cebolla Creek (140200020502),1979-10-01,2023-05-07,37.99,-107.2,3523,Hinsdale,762
+SNTL,CO,summit ranch ,Rock Creek-Blue River (140100020502),1979-10-01,2023-05-07,39.72,-106.16,2856,Summit,802
+SNTL,CO,whiskey ck ,North Fork Purgatoire River (110200100102),1979-10-01,2023-05-07,37.21,-105.12,3136,Las Animas,857
+SNTL,CO,willow park ,Fall River (101900060204),1979-10-01,2023-05-07,40.43,-105.74,3271,Larimer,870
+SNTL,ID,banner summit ,Canyon Creek (170501200202),1979-10-01,2023-05-07,44.3,-115.23,2146,Boise,312
+SNTL,ID,bear basin ,Upper Goose Creek (170602100104),1979-10-01,2023-05-07,44.95,-116.14,1631,Adams,319
+SNTL,ID,bear canyon ,Upper Star Hope Creek (170402180101),1979-10-01,2023-05-07,43.74,-113.94,2408,Custer,320
+SNTL,ID,bear mountain ,Middle Lightning Creek (170102131202),1979-10-01,2023-05-07,48.31,-116.07,1646,Bonner,323
+SNTL,ID,bear saddle ,Upper Mann Creek (170501241001),1979-10-01,2023-05-07,44.61,-116.98,1884,Washington,324
+SNTL,ID,big creek summit ,Curtis Creek (170602080402),1979-10-01,2023-05-07,44.63,-115.8,1999,Valley,338
+SNTL,ID,bostetter r.s. ,Upper Big Cottonwood Creek (170402120201),1979-10-01,2023-05-07,42.16,-114.19,2286,Cassia,359
+SNTL,ID,crab creek ,Upper Camas Creek (170402140108),1979-10-01,2023-05-07,44.44,-111.99,2103,Clark,424
+SNTL,ID,dollarhide summit ,Placer Creek-Warm Springs Creek (170402190201),1979-10-01,2023-05-07,43.6,-114.67,2566,Blaine,450
+SNTL,ID,emigrant summit ,Williams Creek (160102020206),1979-10-01,2023-05-07,42.36,-111.56,2252,Bear Lake,471
+SNTL,ID,galena ,Headwaters Big Wood River (170402190101),1979-10-01,2023-05-07,43.88,-114.67,2277,Blaine,489
+SNTL,ID,garfield r.s. ,Upper Muldoon Creek (170402210301),1979-10-01,2023-05-07,43.61,-113.93,1999,Blaine,492
+SNTL,ID,giveout ,Upper Montpelier Creek (160102010401),1979-10-01,2023-05-07,42.41,-111.17,2112,Bear Lake,493
+SNTL,ID,hilts creek ,Upper Wet Creek (170402170401),1979-10-01,2023-05-07,44.02,-113.47,2438,Custer,524
+SNTL,ID,hyndman ,Hyndman Creek (170402190402),1979-10-01,2023-05-07,43.71,-114.16,2323,Blaine,537
+SNTL,ID,island park ,Split Creek (170402020601),1979-10-01,2023-05-07,44.42,-111.39,1917,Fremont,546
+SNTL,ID,jackson peak ,Fivemile Creek-South Fork Payette River (170501200304),1979-10-01,2023-05-07,44.05,-115.44,2155,Boise,550
+SNTL,ID,lost lake ,Lost Lake-Little North Fork Clearwater River (170603080101),1979-10-01,2023-05-07,47.08,-115.96,1862,Shoshone,600
+SNTL,ID,lost-wood divide ,Trail Creek (170402190304),1979-10-01,2023-05-07,43.82,-114.26,2408,Blaine,601
+SNTL,ID,magic mountain ,Headwaters Rock Creek (170402120601),1979-10-01,2023-05-07,42.18,-114.29,2097,Twin Falls,610
+SNTL,ID,meadow lake ,Upper Texas Creek (170602040101),1979-10-01,2023-05-07,44.44,-113.32,2789,Lemhi,620
+SNTL,ID,moonshine ,Upper Sawmill Creek (170402170201),1979-10-01,2023-05-07,44.41,-113.4,2268,Lemhi,636
+SNTL,ID,moose creek ,Upper North Fork Salmon River (170602030601),1979-10-01,2023-05-07,45.67,-113.95,1890,Lemhi,638
+SNTL,ID,morgan creek ,Headwaters Panther Creek (170602030901),1979-10-01,2023-05-07,44.84,-114.27,2316,Lemhi,639
+SNTL,ID,mountain meadows ,Headwaters Meadow Creek (170603020301),1979-10-01,2023-05-07,45.7,-115.23,1926,Idaho,650
+SNTL,ID,mud flat ,Upper Pole Creek (170501041401),1979-10-01,2023-05-07,42.6,-116.56,1747,Owyhee,654
+SNTL,ID,oxford spring ,Lower Deep Creek (160102040206),1979-10-01,2023-05-07,42.26,-112.13,2054,Oneida,677
+SNTL,ID,prairie ,Lower Smith Creek (170501131103),1979-10-01,2023-05-07,43.51,-115.57,1463,Elmore,704
+SNTL,ID,puhi flat ,Granite Creek-Middle Fork Weiser River (170501240401),1979-10-01,2023-05-07,44.77,-116.25,1902,Adams,782
+SNTL,ID,schweitzer basin ,Middle Fork East River-East River (170102150502),1979-10-01,2023-05-07,48.37,-116.64,1856,Bonner,738
+SNTL,ID,secesh summit ,Headwaters North Fork Payette River (170501230101),1979-10-01,2023-05-07,45.19,-115.97,1993,Valley,740
+SNTL,ID,sherwin ,West Fork St Maries River (170103040703),1979-10-01,2023-05-07,46.95,-116.34,975,Latah,752
+SNTL,ID,stickney mill ,Summit Creek (170402180303),1979-10-01,2023-05-07,43.86,-114.21,2265,Custer,792
+SNTL,ID,west branch ,Upper Weiser River (170501240201),1979-10-01,2023-05-07,45.07,-116.45,1695,Adams,855
+SNTL,ID,white elephant ,Island Park Reservoir (170402020305),1979-10-01,2023-05-07,44.53,-111.41,2350,Fremont,860
+SNTL,ID,wildhorse divide ,Mink Creek (170402080504),1979-10-01,2023-05-07,42.76,-112.48,1978,Bannock,867
+SNTL,MT,kraft creek ,Kraft Creek (170102110104),1979-10-01,2023-05-07,47.43,-113.78,1448,Missoula,562
+SNTL,NM,gallegos peak ,Headwaters Rio Grande de Rancho (130201010502),1979-10-01,2023-05-07,36.19,-105.56,2890,Taos,491
+SNTL,NM,quemazon ,Los Alamos Canyon (130201011303),1979-10-01,2023-05-07,35.92,-106.39,2898,Los Alamos,708
+SNTL,NM,senorita divide #2 ,Headwaters Rio de Las Vacas (130202020102),1979-10-01,2023-05-07,36,-106.83,2612,Rio Arriba,744
+SNTL,NV,laurel draw ,Trail Creek (170501040202),1979-10-01,2023-05-07,41.78,-116.03,2037,Elko,573
+SNTL,OR,beaver reservoir ,Upper Beaver Creek (170601040301),1979-10-01,2023-05-07,45.15,-118.22,1570,Union,331
+SNTL,OR,big red mountain ,Upper Little Applegate River (171003090301),1979-10-01,2023-05-07,42.05,-122.85,1844,Jackson,341
+SNTL,OR,bigelow camp ,Sturgis Fork Carberry Creek (171003090105),1979-10-01,2023-05-07,42.08,-123.34,1564,Josephine,343
+SNTL,OR,blazed alder ,Clear Creek-Sandy River (170800010102),1979-10-01,2023-05-07,45.43,-121.86,1113,Clackamas,351
+SNTL,OR,cascade summit ,Upper Salt Creek (170900010301),1979-10-01,2023-05-07,43.59,-122.06,1554,Deschutes,388
+SNTL,OR,chemult alternate ,Deer Creek (180102010201),1979-10-01,2023-05-07,43.23,-121.81,1478,Klamath,395
+SNTL,OR,clackamas lake ,Headwaters Oak Grove Fork Clackamas River (170900110301),1979-10-01,2023-05-07,45.1,-121.75,1036,Clackamas,398
+SNTL,OR,clear lake ,Clear Creek (170703060901),1979-10-01,2023-05-07,45.19,-121.69,1161,Wasco,401
+SNTL,OR,cold springs camp ,Upper Fourmile Creek (180102030202),1979-10-01,2023-05-07,42.53,-122.18,1811,Klamath,406
+SNTL,OR,county line ,Middle Meadow Creek (170601040202),1979-10-01,2023-05-07,45.19,-118.55,1472,Umatilla,422
+SNTL,OR,derr. ,Jackson Creek (170703040401),1979-10-01,2023-05-07,44.45,-119.93,1783,Wheeler,440
+SNTL,OR,diamond lake ,Lake Creek (171003010204),1979-10-01,2023-05-07,43.19,-122.14,1609,Douglas,442
+SNTL,OR,eilertson meadows ,Rock Creek (170502030404),1979-10-01,2023-05-07,44.87,-118.11,1679,Baker,464
+SNTL,OR,emigrant springs ,Iskuulpa Creek (170701030501),1979-10-01,2023-05-07,45.56,-118.45,1158,Umatilla,470
+SNTL,OR,fish lk. ,Upper North Fork Little Butte Creek (171003070801),1979-10-01,2023-05-07,42.38,-122.35,1420,Jackson,479
+SNTL,OR,gold center ,Bull Run Creek (170702020202),1979-10-01,2023-05-07,44.76,-118.31,1649,Grant,494
+SNTL,OR,holland meadows ,Layng Creek (170900020201),1979-10-01,2023-05-07,43.67,-122.57,1503,Lane,529
+SNTL,OR,king mountain ,Whitehorse Creek-Cow Creek (171003020701),1979-10-01,2023-05-07,42.72,-123.2,1323,Jackson,558
+SNTL,OR,madison butte ,Chapin Creek-Rock Creek (170702041101),1979-10-01,2023-05-07,45.11,-119.5,1570,Morrow,608
+SNTL,OR,marion forks ,Minto Creek-North Santiam River (170900050205),1979-10-01,2023-05-07,44.59,-121.97,789,Linn,614
+SNTL,OR,mckenzie ,White Branch (170900040207),1979-10-01,2023-05-07,44.21,-121.87,1454,Lane,619
+SNTL,OR,moss springs ,Mill Creek (170601040702),1979-10-01,2023-05-07,45.27,-117.69,1756,Union,647
+SNTL,OR,mt hood test site ,Upper Salmon River (170800010302),1979-10-01,2023-05-07,45.32,-121.72,1637,Clackamas,651
+SNTL,OR,mt. howard ,Upper Prairie Creek (170601050102),1979-10-01,2023-05-07,45.27,-117.17,2411,Wallowa,653
+SNTL,OR,new crescent lake ,Upper Crescent Creek (170703020205),1979-10-01,2023-05-07,43.51,-121.98,1497,Klamath,660
+SNTL,OR,ochoco meadows ,Headwaters Ochoco Creek (170703050201),1979-10-01,2023-05-07,44.43,-120.33,1655,Crook,671
+SNTL,OR,peavine ridge ,Cot Creek-Oat Grove Fork Clackamas River (170900110306),1979-10-01,2023-05-07,45.04,-121.93,1042,Clackamas,687
+SNTL,OR,quartz mountain ,Middle South Fork Sprague River (180102020404),1979-10-01,2023-05-07,42.32,-120.83,1743,Lake,706
+SNTL,OR,roaring river ,Roaring River-South Fork McKenzie River (170900040302),1979-10-01,2023-05-07,43.9,-122.03,1509,Lane,719
+SNTL,OR,rock springs ,Calamity Creek (170501160204),1979-10-01,2023-05-07,44.01,-118.84,1612,Grant,721
+SNTL,OR,salt creek falls ,Upper Salt Creek (170900010301),1979-10-01,2023-05-07,43.61,-122.12,1286,Lane,729
+SNTL,OR,seine creek ,Sain Creek-Scoggins Creek (170900100203),1979-10-01,2023-05-07,45.53,-123.3,628,Washington,743
+SNTL,OR,sevenmile marsh ,Sevenmile Creek (180102030104),1979-10-01,2023-05-07,42.7,-122.14,1737,Klamath,745
+SNTL,OR,silver creek ,West Fork Silver Creek (171200050206),1979-10-01,2023-05-07,42.96,-121.18,1750,Lake,756
+SNTL,OR,starr ridge ,Starr Creek-Silvies River (171200020102),1979-10-01,2023-05-07,44.26,-119.02,1600,Grant,789
+SNTL,OR,strawberry ,Barnes Valley Creek (180102040501),1979-10-01,2023-05-07,42.13,-120.84,1759,Lake,794
+SNTL,OR,three creeks meadow ,Three Creek (170703010601),1979-10-01,2023-05-07,44.14,-121.64,1734,Deschutes,815
+SNTL,UT,beaver dams ,Headwaters Twelvemile Creek (160300040402),1980-06-01,2023-05-07,39.14,-111.56,2435,Sanpete,329
+SNTL,UT,ben lomond trail ,Cutler Creek-North Fork Ogden River (160201020302),1980-06-01,2023-05-07,41.38,-111.92,1820,Weber,333
+SNTL,UT,black flat-u.m. ck ,U M Creek (140700030101),1980-06-01,2023-05-07,38.68,-111.6,2869,Sevier,348
+SNTL,UT,castle valley ,Upper Mammoth Creek (160300010201),1980-06-01,2023-05-07,37.66,-112.74,2928,Iron,390
+SNTL,UT,chepeta ,East Fork Whiterocks River (140600031202),1980-07-01,2023-05-07,40.77,-110.01,3200,Duchesne,396
+SNTL,UT,farnsworth lake ,Gooseberry Creek (160300030405),1980-07-01,2023-05-07,38.77,-111.68,2933,Sevier,475
+SNTL,UT,five points lake ,Garfield Creek (140600030701),1980-08-01,2023-05-07,40.72,-110.47,3335,Duchesne,481
+SNTL,UT,kimberly mine ,Mill Creek (160300030104),1980-07-01,2023-05-07,38.48,-112.39,2774,Piute,557
+SNTL,UT,lasal mountain ,Horse Creek-Mill Creek (140300050404),1980-08-01,2023-05-07,38.48,-109.27,2919,San Juan,572
+SNTL,UT,lily lake ,Willow Creek-Bear River (160101010103),1980-06-01,2023-05-07,40.86,-110.8,2784,Summit,579
+SNTL,UT,merchant valley ,Merchant Creek (160300070201),1980-07-01,2023-05-07,38.3,-112.44,2653,Beaver,621
+SNTL,UT,midway valley ,Midway Valley-Midway Creek (160300010101),1980-07-01,2023-05-07,37.57,-112.84,2995,Iron,626
+SNTL,UT,payson r.s. ,Peteetneet Creek (160202020601),1980-06-01,2023-05-07,39.93,-111.63,2452,Utah,686
+SNTL,UT,rock creek ,South Fork Rock Creek (140600030304),1980-06-01,2023-05-07,40.55,-110.69,2404,Duchesne,720
+SNTL,UT,rocky basin-settleme ,Settlement Canyon (160203040401),1980-06-01,2023-05-07,40.44,-112.22,2653,Tooele,723
+SNTL,UT,webster flat ,Upper Deep Creek (150100080101),1980-07-01,2023-05-07,37.58,-112.9,2805,Iron,853
+SNTL,WA,blewett pass ,Upper Peshastin Creek (170200110501),1979-10-01,2023-05-07,47.35,-120.68,1292,Chelan,352
+SNTL,WA,bunchgrass mdw ,Harvey Creek (170102160401),1979-10-01,2023-05-07,48.69,-117.18,1524,Pend Oreille,376
+SNTL,WA,corral pass ,Silver Creek-White River (171100140307),1979-10-01,2023-05-07,47.02,-121.46,1768,Pierce,418
+SNTL,WA,cougar mountain ,North Fork Green River (171100130202),1979-10-01,2023-05-07,47.28,-121.67,975,King,420
+SNTL,WA,fish lake ,Headwaters Cle Elum River (170300010102),1979-10-01,2023-05-07,47.54,-121.09,1045,Kittitas,478
+SNTL,WA,grouse camp ,Upper Naneum Creek (170300010401),1979-10-01,2023-05-07,47.28,-120.49,1643,Kittitas,507
+SNTL,WA,harts pass ,Upper Canyon Creek (171100050501),1979-10-01,2023-05-07,48.72,-120.66,1978,Okanogan,515
+SNTL,WA,olallie meadows ,Upper South Fork Snoqualmie River (171100100301),1979-10-01,2023-05-07,47.37,-121.44,1228,King,672
+SNTL,WA,paradise ,Headwaters Nisqually River (171100150104),1979-10-01,2023-05-07,46.78,-121.75,1564,Pierce,679
+SNTL,WA,pigtail peak ,Clear Creek (170300020301),1979-10-01,2023-05-07,46.62,-121.39,1768,Yakima,692
+SNTL,WA,pope ridge ,Lake Creek-Entiat River (170200100204),1979-10-01,2023-05-07,47.99,-120.57,1094,Chelan,699
+SNTL,WA,rainy pass ,Upper Granite Creek (171100050503),1979-10-01,2023-05-07,48.52,-120.74,1490,Chelan,711
+SNTL,WA,salmon meadows ,North Fork Salmon Creek (170200062003),1979-10-01,2023-05-07,48.66,-119.84,1359,Okanogan,728
+SNTL,WA,stampede pass ,Sunday Creek (171100130103),1979-10-01,2023-05-07,47.27,-121.34,1173,King,788
+SNTL,WA,stevens pass ,Upper Tye River (171100090102),1979-10-01,2023-05-07,47.75,-121.09,1204,King,791
+SNTL,WA,touchet ,Wolf Creek (170701020303),1979-10-01,2023-05-07,46.12,-117.85,1686,Columbia,824
+SNTL,WA,upper wheeler ,Stemilt Creek (170200100310),1979-10-01,2023-05-07,47.29,-120.37,1320,Chelan,841
+SNTL,WA,white pass e.s. ,Clear Creek (170300020301),1979-10-01,2023-05-07,46.64,-121.38,1353,Yakima,863
+SNTL,WY,base camp ,Berry Creek (170401010304),1979-10-01,2023-05-07,43.94,-110.45,2152,Teton,314
+SNTL,WY,bear trap meadow ,Upper North Fork Red Fork Powder River (100902010205),1979-10-01,2023-05-07,43.89,-107.06,2499,Johnson,325
+SNTL,WY,beartooth lake ,Beartooth Creek (100700060206),1979-10-01,2023-05-07,44.94,-109.57,2853,Park,326
+SNTL,WY,blackwater ,Lower Elk Fork (100800120209),1979-10-01,2023-05-07,44.38,-109.79,2981,Park,350
+SNTL,WY,burgess junction ,Lower East Fork Big Goose Creek (100901010202),1979-10-01,2023-05-07,44.79,-107.53,2402,Sheridan,377
+SNTL,WY,divide peak ,Cottonwood Creek-Little Snake River (140500030203),1979-10-01,2023-05-07,41.3,-107.15,2661,Carbon,449
+SNTL,WY,evening star ,Table Creek-Clarks Fork Yellowstone River (100700060301),1979-10-01,2023-05-07,44.65,-109.78,2804,Park,472
+SNTL,WY,hansen sawmill ,Upper South Clear Creek (100902060101),1979-10-01,2023-05-07,44.26,-106.98,2548,Johnson,512
+SNTL,WY,indian creek ,Middle Dry Muddy Creek (140401070502),1979-10-01,2023-05-07,42.3,-110.68,2873,Lincoln,544
+SNTL,WY,kirwin ,Bonne Creek-Greybull River (100800090101),1979-10-01,2023-05-07,43.86,-109.32,2911,Park,560
+SNTL,WY,loomis park ,Tosi Creek (140401010201),1979-10-01,2023-05-07,43.17,-110.14,2512,Sublette,597
+SNTL,WY,marquette ,Carter Creek-South Fork Shoshone River (100800130303),1979-10-01,2023-05-07,44.3,-109.24,2670,Park,616
+SNTL,WY,owl creek ,Dry Cottonwood Creek (100800070103),1979-10-01,2023-05-07,43.66,-109.01,2736,Hot Springs,676
+SNTL,WY,parker peak ,Sour Creek (100700010502),1979-10-01,2023-05-07,44.73,-109.91,2865,Park,683
+SNTL,WY,reno hill ,Mountain Home Number 1 Reservoir-North Platte River (101800070901),1979-10-01,2023-05-07,42.57,-106.09,2569,Natrona,716
+SNTL,WY,sand lake ,Turpin Creek-Medicine Bow River (101800040101),1979-10-01,2023-05-07,41.46,-106.28,3078,Carbon,731
+SNTL,WY,snider basin ,Upper South Piney Creek (140401010906),1980-09-01,2023-05-07,42.49,-110.53,2457,Sublette,765
+SNTL,WY,townsend creek ,Sand Creek (100800030203),1979-10-01,2023-05-07,42.7,-108.9,2652,Fremont,826
+SNTL,WY,two ocean plateau ,De Lacy Creek (170401010201),1979-10-01,2023-05-07,44.15,-110.22,2816,Teton,837
+SNTL,WY,willow creek ,Tygee Creek (170401050204),1979-10-01,2023-05-07,42.82,-110.84,2463,Lincoln,868
+SNTL,WY,windy peak ,Middle Bear Creek (101800080802),1979-10-01,2023-05-07,42.28,-105.58,2412,Albany,872
+SNTL,WY,wolverine ,Crazy Creek (100700060104),1979-10-01,2023-05-07,44.8,-109.66,2332,Park,875
+SNTL,WY,younts peak ,East Fork Creek (100800130103),1979-10-01,2023-05-07,43.93,-109.82,2545,Park,878
+SNTL,AK,indian pass ,Headwaters Ship Creek (190204010402),1978-10-01,2023-05-07,61.07,-149.48,716,Anchorage,946
+SNTL,AZ,coronado trail ,Coleman Creek (150400040501),1978-10-01,2023-05-07,33.8,-109.15,2566,Apache,416
+SNTL,AZ,fry ,Fry Canyon (150602020501),1978-10-01,2023-05-07,35.07,-111.84,2206,Coconino,488
+SNTL,CA,ebbetts pass ,Silver Creek (160502010104),1978-10-01,2023-05-07,38.55,-119.8,2640,Alpine,462
+SNTL,CA,hagans meadow ,Trout Creek (160501010302),1978-10-01,2023-05-07,38.85,-119.94,2360,El Dorado,508
+SNTL,CA,heavenly valley ,Trout Creek (160501010302),1978-10-01,2023-05-07,38.92,-119.92,2601,El Dorado,518
+SNTL,CA,independence camp ,Independence Creek (160501020102),1978-10-01,2023-05-07,39.45,-120.29,2128,Sierra,539
+SNTL,CA,independence lake ,Sagehen Creek (160501020104),1978-10-01,2023-05-07,39.43,-120.31,2541,Nevada,541
+SNTL,CA,lobdell lake ,Deep Creek (160503020201),1978-10-01,2023-05-07,38.44,-119.37,2819,Mono,587
+SNTL,CA,sonora pass ,Leavitt Creek-West Walker River (160503020104),1978-10-01,2023-05-07,38.31,-119.6,2673,Mono,771
+SNTL,CA,virginia lakes ridge ,Virginia Creek (160503010103),1978-10-01,2023-05-07,38.07,-119.23,2865,Mono,846
+SNTL,CO,arrow ,Upper Fraser River (140100010202),1978-10-01,2013-10-01,39.92,-105.76,2950,Grand,305
+SNTL,CO,burro mountain ,North Elk Creek (140500050302),1978-10-01,2023-05-07,39.88,-107.6,2840,Rio Blanco,378
+SNTL,CO,cascade ,Headwaters Cascade Creek (140801040201),1978-10-01,2022-10-01,37.65,-107.81,2707,San Juan,386
+SNTL,CO,columbine ,Upper Grizzly Creek (101800010102),1978-10-01,2023-05-07,40.4,-106.6,2794,Jackson,408
+SNTL,CO,copper mountain ,West Tenmile Creek (140100020302),1978-10-01,2023-05-07,39.49,-106.17,3207,Summit,415
+SNTL,CO,culebra #2 ,Headwaters Culebra Creek (130100020902),1978-10-01,2023-05-07,37.21,-105.2,3219,Costilla,430
+SNTL,CO,deadman hill ,Lower Dale Creek (101900070502),1978-10-01,2023-05-07,40.81,-105.77,3121,Larimer,438
+SNTL,CO,elk river ,Steamboat Lake (140500010206),1978-10-01,2023-05-07,40.85,-106.97,2664,Routt,467
+SNTL,CO,joe wright ,Joe Wright Creek (101900070204),1978-10-01,2023-05-07,40.53,-105.89,3096,Larimer,551
+SNTL,CO,lake eldora ,Middle Boulder Creek (101900050402),1978-10-01,2023-05-07,39.94,-105.59,2965,Boulder,564
+SNTL,CO,lake irene ,Headwaters Colorado River (140100010302),1978-10-01,2023-05-07,40.41,-105.82,3256,Grand,565
+SNTL,CO,mineral creek ,Mineral Creek (140801040103),1978-10-01,2023-05-07,37.85,-107.73,3062,San Juan,629
+SNTL,CO,park reservoir ,Surface Creek (140200050111),1978-10-01,2023-05-07,39.04,-107.88,3044,Delta,682
+SNTL,CO,porphyry creek ,Porphyry Creek-Tomichi Creek (140200030105),1978-10-01,2023-05-07,38.49,-106.34,3288,Gunnison,701
+SNTL,CO,tower ,Fish Creek (140500010407),1978-10-01,2023-05-07,40.54,-106.68,3237,Routt,825
+SNTL,CO,university camp ,North Boulder Creek (101900050401),1978-10-01,2023-05-07,40.03,-105.58,3158,Boulder,838
+SNTL,CO,upper san juan ,Wolf Creek (140801010203),1978-10-01,2023-05-07,37.49,-106.84,3091,Mineral,840
+SNTL,CO,vail mountain ,Middle Gore Creek (140100030102),1978-10-01,2023-05-07,39.62,-106.38,3142,Eagle,842
+SNTL,CO,willow creek pass ,Upper Willow Creek (140100010102),1978-10-01,2023-05-07,40.35,-106.1,2903,Grand,869
+SNTL,ID,atlanta summit ,Bald Mountain Creek-Middle Fork Boise River (170501110204),1978-10-01,2023-05-07,43.76,-115.24,2310,Elmore,306
+SNTL,ID,cozy cove ,Deadwood River-Deadwood Reservoir (170501200403),1978-10-01,2023-05-07,44.29,-115.66,1646,Valley,423
+SNTL,ID,deadwood summit ,Stratton Creek-Deadwood River (170501200401),1978-10-01,2023-05-07,44.55,-115.56,2091,Valley,439
+SNTL,ID,franklin basin ,Upper Cub River (160102020501),1978-10-01,2023-05-07,42.05,-111.6,2481,Franklin,484
+SNTL,ID,galena summit ,Headwaters Big Wood River (170402190101),1978-10-01,2023-05-07,43.87,-114.71,2676,Blaine,490
+SNTL,ID,graham guard sta. ,Big Silver Creek-North Fork Boise River (170501110303),1978-10-01,2023-05-07,43.95,-115.27,1734,Elmore,496
+SNTL,ID,howell canyon ,Howell Creek (170402090602),1978-10-01,2023-05-07,42.32,-113.62,2432,Cassia,534
+SNTL,ID,humboldt gulch ,Canyon Creek-Upper South Fork Coeur d'Alene River (170103020102),1978-10-01,2023-05-07,47.53,-115.78,1295,Shoshone,535
+SNTL,ID,lookout ,Little North Fork South Fork Coeur d'Alene River-South Fork Coeur d'Alene River (170103020101),1978-10-01,2023-05-07,47.46,-115.7,1582,Shoshone,594
+SNTL,ID,mill creek summit ,Upper Yankee Fork (170602010501),1978-10-01,2023-05-07,44.47,-114.49,2682,Custer,627
+SNTL,ID,mosquito ridge ,Upper North Fork Coeur d'Alene River (170103010101),1978-10-01,2023-05-07,48.06,-116.23,1603,Shoshone,645
+SNTL,ID,sheep mtn. ,Horse Creek-Willow Creek (170402050304),1978-10-01,2023-05-07,43.21,-111.69,2027,Bingham,749
+SNTL,ID,slug creek divide ,Headwaters Slug Creek (170402070201),1978-10-01,2023-05-07,42.56,-111.3,2202,Caribou,761
+SNTL,ID,somsen ranch ,Upper Lanes Creek (170402070101),1978-10-01,2023-05-07,42.95,-111.36,2073,Caribou,770
+SNTL,ID,south mtn. ,Deer Creek-Big Boulder Creek (170501080205),1978-10-01,2023-05-07,42.76,-116.9,1981,Owyhee,774
+SNTL,ID,sunset ,Canyon Creek-Upper South Fork Coeur d'Alene River (170103020102),1978-10-01,2023-05-07,47.56,-115.82,1689,Shoshone,803
+SNTL,ID,swede peak ,Upper Muldoon Creek (170402210301),1978-10-01,2023-05-07,43.63,-113.97,2329,Blaine,805
+SNTL,ID,trinity mtn. ,Roaring River (170501110703),1978-10-01,2023-05-07,43.63,-115.44,2368,Elmore,830
+SNTL,ID,vienna mine ,Smiley Creek (170602010201),1978-10-01,2023-05-07,43.8,-114.85,2731,Blaine,845
+SNTL,MT,copper bottom ,Copper Creek (170102030103),1978-10-01,2023-05-07,47.06,-112.6,1585,Lewis And Clark,413
+SNTL,MT,copper camp ,Copper Creek (170102030103),1978-10-01,2023-05-07,47.08,-112.73,2118,Lewis And Clark,414
+SNTL,MT,s fork shields ,Bennett Creek-Shields River (100700030301),1978-10-01,2023-05-07,46.09,-110.43,2469,Park,725
+SNTL,MT,wood creek ,Wood Creek (100301040202),1978-10-01,2023-05-07,47.45,-112.81,1817,Lewis And Clark,876
+SNTL,NM,bateman ,Montoya Canyon-Canjilon Creek (130201020901),1978-10-01,2023-05-07,36.51,-106.32,2819,Rio Arriba,316
+SNTL,NM,chamita ,Rio Chamita (130201020204),1978-10-01,2023-05-07,36.96,-106.66,2555,Rio Arriba,394
+SNTL,NM,hopewell ,Jarosa Creek-Rio Vallecitos (130201021401),1978-10-01,2023-05-07,36.72,-106.26,3077,Rio Arriba,532
+SNTL,NM,lookout mountain ,Taylor Creek (150400010402),1978-10-01,2023-05-07,33.36,-107.83,2594,Sierra,595
+SNTL,NM,north costilla ,Casias Creek-Costillo Creek (130201010101),1978-10-01,2023-05-07,36.99,-105.26,3230,Taos,665
+SNTL,NM,red river pass #2 ,Upper Red River (130201010301),1978-10-01,2023-05-07,36.7,-105.34,3004,Taos,715
+SNTL,NM,signal peak ,Lake Roberts-Sapillo Creek (150400010803),1978-10-01,2023-05-07,32.92,-108.15,2562,Grant,755
+SNTL,NM,silver creek divide ,Mineral Creek (150400040605),1978-10-01,2023-05-07,33.37,-108.71,2772,Catron,757
+SNTL,NV,big bend ,Martin Creek (170501040104),1978-10-01,2023-05-07,41.76,-115.69,2103,Elko,336
+SNTL,NV,corral canyon ,Corral Creek (160401030401),1978-10-01,2023-05-07,40.28,-115.54,2574,Elko,417
+SNTL,NV,dorsey basin ,Lower Secret Creek (160401010604),1978-10-01,2023-05-07,40.89,-115.21,2409,Elko,453
+SNTL,NV,jack creek upper ,Upper Harrington Creek (170501050201),1978-10-01,2023-05-07,41.55,-116.01,2249,Elko,548
+SNTL,NV,marlette lake ,Sand Harbor-Frontal Lake Tahoe (160501010201),1978-10-01,2023-05-07,39.16,-119.9,2403,Carson City,615
+SNTL,NV,seventysix creek ,Annie Creek-Bruneau River (170501020108),1978-10-01,2023-05-07,41.74,-115.47,2240,Elko,746
+SNTL,OR,arbuckle mtn ,Upper Fivemile Creek (170702020604),1978-10-01,2023-05-07,45.19,-119.25,1759,Morrow,304
+SNTL,OR,billie creek divide ,Seldom Creek (180102030201),1978-10-01,2023-05-07,42.41,-122.27,1609,Klamath,344
+SNTL,OR,blue mountain spring ,Summit Creek (170501160104),1978-10-01,2023-05-07,44.25,-118.52,1789,Grant,357
+SNTL,OR,bourne ,Cracker Creek (170502030101),1978-10-01,2023-05-07,44.83,-118.19,1783,Baker,361
+SNTL,OR,bowman springs ,Johnson Creek (170701030401),1978-10-01,2023-05-07,45.36,-118.47,1381,Umatilla,362
+SNTL,OR,daly lake ,Pyramid Creek (170900060101),1978-10-01,2023-05-07,44.52,-122.09,1125,Linn,434
+SNTL,OR,fish creek ,Fish Creek (171200030107),1978-10-01,2023-05-07,42.71,-118.63,2335,Harney,477
+SNTL,OR,fourmile lake ,Upper Fourmile Creek (180102030202),1978-10-01,2023-05-07,42.44,-122.23,1820,Klamath,483
+SNTL,OR,greenpoint ,Lower West Fork Hood River (170701050603),1978-10-01,2023-05-07,45.62,-121.7,1009,Hood River,504
+SNTL,OR,high ridge ,Buck Creek-South Fork Umatilla River (170701030103),1978-10-01,2023-05-07,45.7,-118.11,1500,Umatilla,523
+SNTL,OR,hogg pass ,Parks Creek-Lost Lake (170900040201),1978-10-01,2023-05-07,44.42,-121.86,1460,Linn,526
+SNTL,OR,irish taylor ,Deer Creek (170703010106),1978-10-01,2023-05-07,43.8,-121.95,1689,Deschutes,545
+SNTL,OR,jump off joe ,Sevenmile Creek-South Santiam River (170900060201),1978-10-01,2023-05-07,44.39,-122.17,1073,Linn,552
+SNTL,OR,lake creek r.s. ,Lake Creek (170501160102),1978-10-01,2023-05-07,44.21,-118.64,1597,Grant,563
+SNTL,OR,little meadows ,Headwaters Quartzville Creek (170900060301),1978-10-01,2023-05-07,44.61,-122.23,1225,Linn,584
+SNTL,OR,lucky strike ,West Birch Creek (170701030606),1978-10-01,2023-05-07,45.27,-118.85,1515,Umatilla,605
+SNTL,OR,mud ridge ,Upper Salmon River (170800010302),1978-10-01,2023-05-07,45.25,-121.74,1241,Clackamas,655
+SNTL,OR,north fork ,Middle Bull Run River (170800010503),1978-10-01,2023-05-07,45.55,-122,933,Multnomah,666
+SNTL,OR,red hill ,Lower Middle Fork Hood River (170701050505),1978-10-01,2023-05-07,45.46,-121.7,1344,Hood River,712
+SNTL,OR,saddle mountain ,Headwaters Tualatin River (170900100201),1978-10-01,2023-05-07,45.54,-123.37,948,Washington,726
+SNTL,OR,santiam jct. ,Parks Creek-Lost Lake (170900040201),1978-10-01,2023-05-07,44.44,-121.95,1140,Linn,733
+SNTL,OR,silvies ,Mud Creek (171200030201),1978-10-01,2023-05-07,42.75,-118.69,2131,Harney,759
+SNTL,OR,snow mountain ,Crowsfoot Creek-Emigrant Creek (171200020501),1978-10-01,2023-05-07,43.95,-119.54,1899,Harney,767
+SNTL,OR,summer rim ,Headwaters Sycan River (180102020103),1978-10-01,2023-05-07,42.7,-120.8,2158,Lake,800
+SNTL,OR,summit lake ,Summit Lake (170703020203),1978-10-01,2023-05-07,43.45,-122.14,1710,Klamath,801
+SNTL,OR,taylor butte ,Chester Spring-Sycan River (180102020606),1978-10-01,2023-05-07,42.69,-121.43,1533,Klamath,810
+SNTL,OR,taylor green ,South Fork Catherine Creek (170601040502),1978-10-01,2023-05-07,45.08,-117.55,1750,Baker,812
+SNTL,OR,tipton ,Upper North Fork Burnt River (170502020101),1978-10-01,2023-05-07,44.66,-118.43,1570,Baker,821
+SNTL,OR,wolf creek ,Upper Wolf Creek (170502030601),1978-10-01,2023-05-07,45.07,-118.15,1716,Union,873
+SNTL,UT,beaver divide ,Shingle Creek-Provo River (160202030105),1978-10-01,2023-05-07,40.61,-111.1,2524,Summit,330
+SNTL,UT,ben lomond peak ,Cutler Creek-North Fork Ogden River (160201020302),1978-10-01,2023-05-07,41.38,-111.94,2344,Weber,332
+SNTL,UT,big flat ,Three Creeks (160300070202),1978-10-01,2023-05-07,38.3,-112.36,3154,Beaver,339
+SNTL,UT,box creek ,Greenwich Creek (160300020106),1979-08-01,2023-05-07,38.51,-112.02,3003,Sevier,364
+SNTL,UT,brown duck ,Brown Duck Creek-Lake Fork River (140600030604),1978-10-01,2023-05-07,40.58,-110.59,3223,Duchesne,368
+SNTL,UT,buck flat ,Ferron Reservoir-Ferron Creek (140600090302),1978-10-01,2023-05-07,39.13,-111.44,2868,Sanpete,371
+SNTL,UT,bug lake ,Laketown Canyon (160102010102),1978-10-01,2023-05-07,41.69,-111.42,2434,Rich,374
+SNTL,UT,chalk creek #1 ,East Fork Chalk Creek (160201010301),1978-10-01,2023-05-07,40.85,-111.05,2795,Summit,392
+SNTL,UT,chalk creek #2 ,East Fork Chalk Creek (160201010301),1978-10-01,2023-05-07,40.89,-111.07,2502,Summit,393
+SNTL,UT,clear creek #2 ,Upper Soldier Creek (160202020102),1978-10-01,2023-05-07,39.89,-111.25,2389,Utah,400
+SNTL,UT,currant creek ,Current Creek Reservoir (140600040401),1978-10-01,2023-05-07,40.36,-111.09,2412,Wasatch,432
+SNTL,UT,daniels-strawberry ,Willow Creek-Strawberry River (140600040101),1978-10-01,2023-05-07,40.3,-111.26,2441,Wasatch,435
+SNTL,UT,dills camp ,Beaver Creek (140700020201),1978-10-01,2023-05-07,39.05,-111.47,2813,Sanpete,444
+SNTL,UT,dry bread pond ,Headwaters East Fork Little Bear River Canyon (160102030101),1978-10-01,2023-05-07,41.41,-111.54,2530,Cache,455
+SNTL,UT,farmington ,Farmington Creek-Frontal Farmington Bay (160201020502),1978-10-01,2023-05-07,40.97,-111.81,2409,Davis,474
+SNTL,UT,gooseberry rs ,Gooseberry Creek (160300030405),1979-06-01,2023-05-07,38.8,-111.68,2421,Sevier,495
+SNTL,UT,harris flat ,Swains Creek (160300010104),1979-08-01,2023-05-07,37.49,-112.58,2375,Kane,514
+SNTL,UT,hayden fork ,Hayden Fork (160101010101),1978-10-01,2023-05-07,40.8,-110.88,2783,Summit,517
+SNTL,UT,horse ridge ,Blue Fork Creek (160201010601),1978-10-01,2023-05-07,41.31,-111.45,2499,Morgan,533
+SNTL,UT,kings cabin ,Middle Little Brush Creek (140600100303),1978-10-01,2023-05-07,40.72,-109.54,2660,Uintah,559
+SNTL,UT,kolob ,Crystal Creek (150100080102),1978-10-01,2023-05-07,37.53,-113.05,2823,Iron,561
+SNTL,UT,lakefork #1 ,Crystal Creek-Yellowstone River (140600030705),1978-10-01,2023-05-07,40.6,-110.43,3087,Duchesne,566
+SNTL,UT,little bear ,South Fork Little Bear River (160102030103),1978-10-01,2023-05-07,41.41,-111.83,1996,Cache,582
+SNTL,UT,long flat ,Pinto Creek (160300061403),1979-09-01,2023-05-07,37.51,-113.4,2433,Washington,592
+SNTL,UT,mammoth-cottonwood ,Cottonwood Canyon-San Pitch River (160300040203),1978-10-01,2023-05-07,39.68,-111.32,2655,Sanpete,612
+SNTL,UT,monte cristo ,Sheep Creek (160102030201),1978-10-01,2023-05-07,41.47,-111.5,2722,Cache,634
+SNTL,UT,mosby mtn. ,Mosby Sink-Dry Fork (140600100702),1978-10-01,2023-05-07,40.61,-109.89,2912,Uintah,643
+SNTL,UT,parleys summit ,Big Dutch Hollow-East Canyon Creek (160201020103),1978-10-01,2023-05-07,40.76,-111.63,2312,Summit,684
+SNTL,UT,pickle keg ,Skumpah Creek-Salina Creek (160300030402),1978-10-01,2023-05-07,39.01,-111.58,2749,Sevier,691
+SNTL,UT,red pine ridge ,Lowry Water (140600090202),1978-10-01,2023-05-07,39.45,-111.27,2740,Emery,714
+SNTL,UT,seeley creek ,Seely Creek (140600090203),1978-10-01,2023-05-07,39.31,-111.43,3019,Sanpete,742
+SNTL,UT,smith  morehouse ,Moffit Creek-Weber River (160201010203),1978-10-01,2023-05-07,40.79,-111.09,2326,Summit,763
+SNTL,UT,steel creek park ,West Fork Smiths Fork (140401070203),1978-10-01,2023-05-07,40.91,-110.5,3096,Summit,790
+SNTL,UT,strawberry divide ,Mud Creek (140600040103),1978-10-01,2023-05-07,40.16,-111.21,2476,Wasatch,795
+SNTL,UT,timpanogos divide ,Middle American Fork Canyon (160202010802),1978-10-01,2023-05-07,40.43,-111.62,2481,Utah,820
+SNTL,UT,tony grove lake ,Tony Grove Creek (160102030304),1978-10-01,2023-05-07,41.9,-111.63,2583,Cache,823
+SNTL,UT,trial lake ,Spring Canyon-Provo River (160202030102),1978-10-01,2023-05-07,40.68,-110.95,3046,Summit,828
+SNTL,UT,trout creek ,North Fork Ashley Creek (140600100802),1978-10-01,2023-05-07,40.74,-109.67,2901,Uintah,833
+SNTL,UT,vernon creek ,Vernon Creek (160203040102),1978-10-01,2023-05-07,39.94,-112.41,2256,Tooele,844
+SNTL,UT,white river #1 ,Right Fork White River (140600070102),1978-10-01,2023-05-07,39.96,-110.99,2634,Wasatch,864
+SNTL,UT,widtsoe #3 ,Sweetwater Creek (160300020403),1978-10-01,2023-05-07,37.84,-111.88,2938,Garfield,865
+SNTL,UT,wilbur bench ,Left Fork Indian Canyon (140600040701),1978-10-01,2023-05-07,39.89,-110.75,2795,Duchesne,543
+SNTL,WA,bumping ridge ,Upper Bumping River (170300020105),1978-10-01,2023-05-07,46.81,-121.33,1405,Yakima,375
+SNTL,WA,lone pine ,Upper Clear Creek (170800020203),1978-10-01,2023-05-07,46.27,-121.96,1198,Skamania,591
+SNTL,WA,lyman lake ,Upper Railroad Creek (170200090203),1978-10-01,2023-05-07,48.2,-120.92,1823,Chelan,606
+SNTL,WA,morse lake ,Upper American River (170300020106),1978-10-01,2023-05-07,46.91,-121.48,1649,Yakima,642
+SNTL,WA,park creek ridge ,Park Creek-Stehekin River (170200090106),1978-10-01,2023-05-07,48.44,-120.92,1402,Chelan,681
+SNTL,WA,surprise lakes ,Big Creek (170800020107),1978-10-01,2023-05-07,46.09,-121.76,1308,Skamania,804
+SNTL,WA,trough ,Colockum Creek (170200100402),1978-10-01,2023-05-07,47.23,-120.29,1670,Kittitas,832
+SNTL,WY,blind bull sum ,Forty Rod Creek (140401010402),1978-10-01,2023-05-07,42.96,-110.61,2637,Sublette,353
+SNTL,WY,bone springs div ,Granite Creek-Shell Creek (100800100102),1978-10-01,2023-05-07,44.68,-107.58,2850,Sheridan,358
+SNTL,WY,burroughs creek ,West Du Noir Creek (100800010102),1978-10-01,2023-05-07,43.7,-109.67,2667,Fremont,379
+SNTL,WY,cloud peak reservoir ,Upper South Piney Creek (100902060301),1978-10-01,2023-05-07,44.4,-107.06,3005,Johnson,402
+SNTL,WY,dome lake ,Lower North Tongue River (100901010102),1978-10-01,2023-05-07,44.57,-107.3,2707,Sheridan,451
+SNTL,WY,hobbs park ,Lower Middle Popo Agie River (100800030207),1978-10-01,2023-05-07,42.87,-109.09,3078,Fremont,525
+SNTL,WY,laprele creek ,Upper Sage Creek (101800071201),1978-10-01,2023-05-07,42.44,-105.86,2557,Converse,571
+SNTL,WY,little warm ,Little Warm Spring Creek-Wind River (100800010212),1978-10-01,2023-05-07,43.5,-109.75,2856,Fremont,585
+SNTL,WY,middle powder ,Little Canyon Creek (100800080205),1978-10-01,2023-05-07,43.63,-107.18,2365,Washakie,625
+SNTL,WY,shell creek ,Willett Creek-Shell Creek (100800100101),1978-10-01,2023-05-07,44.5,-107.43,2920,Big Horn,751
+SNTL,WY,spring creek divide ,Spring Creek-Green River (140401011001),1978-10-01,2023-05-07,42.53,-110.66,2743,Sublette,779
+SNTL,WY,sucker creek ,West Fork Big Goose Creek (100901010203),1978-10-01,2023-05-07,44.72,-107.4,2707,Sheridan,798
+SNTL,WY,sylvan lake ,Chipmunk Creek (100700010404),1978-10-01,2023-05-07,44.48,-110.16,2566,Park,806
+SNTL,CA,cedar pass ,Thoms Creek (180200020603),1977-10-01,2023-05-07,41.58,-120.3,2143,Modoc,391
+SNTL,ID,mores creek summit ,Middle Crooked River (170501110503),1978-09-01,2023-05-07,43.93,-115.67,1859,Boise,637
+SNTL,MT,mule creek ,Birch Creek (100200041303),1977-10-01,2023-05-07,45.41,-112.96,2530,Beaverhead,656
+SNTL,MT,nevada ridge ,Poorman Creek (170102030302),1977-10-01,2023-05-07,46.84,-112.51,2140,Lewis And Clark,903
+SNTL,UT,clear creek #1 ,Upper Soldier Creek (160202020102),1978-01-01,2023-05-07,39.87,-111.28,2736,Utah,399
+SNTL,MT,barker lakes ,Warm Springs Creek-West Valley (170102010304),1977-08-01,2023-05-07,46.1,-113.13,2515,Deer Lodge,313
+SNTL,MT,basin creek ,Basin Creek (170102010201),1976-10-01,2023-05-07,45.8,-112.52,2188,Silver Bow,315
+SNTL,MT,beagle springs ,Upper Nicholia Creek (100200010501),1976-10-01,2023-05-07,44.47,-112.98,2697,Beaverhead,318
+SNTL,MT,bloody dick ,Upper Bloody Dick Creek (100200011002),1976-10-01,2023-05-07,45.17,-113.5,2316,Beaverhead,355
+SNTL,MT,boulder mountain ,Upper Camas Creek (100301030501),1976-10-01,2023-05-07,46.56,-111.29,2423,Meagher,360
+SNTL,MT,box canyon ,Headwaters Boulder River (100700020902),1976-10-01,2023-05-07,45.27,-110.25,2033,Park,363
+SNTL,MT,daisy peak ,Mud Creek (100402010106),1977-09-01,2023-05-07,46.67,-110.33,2316,Meagher,919
+SNTL,MT,darkhorse lake ,Headwaters Big Hole River (100200040301),1977-08-01,2023-05-07,45.17,-113.58,2726,Beaverhead,436
+SNTL,MT,hand creek ,Squaw Meadows Creek (170102100304),1976-10-01,2023-05-07,48.31,-114.84,1535,Flathead,510
+SNTL,MT,lower twin ,Upper North Meadow Creek (100200071101),1976-10-01,2023-05-07,45.51,-111.92,2408,Madison,603
+SNTL,MT,many glacier ,Swiftcurrent Lake (090400010201),1976-10-01,2023-05-07,48.8,-113.67,1494,Glacier,613
+SNTL,MT,monument peak ,Headwaters Boulder River (100700020902),1976-10-01,2023-05-07,45.22,-110.24,2697,Park,635
+SNTL,MT,pickfoot creek ,Upper Camas Creek (100301030501),1977-06-01,2023-05-07,46.58,-111.27,2027,Meagher,690
+SNTL,MT,placer basin ,Upper East Boulder River (100700020701),1976-10-01,2023-05-07,45.42,-110.09,2691,Sweet Grass,696
+SNTL,MT,warm springs ,Headwaters Warm Springs Creek (170102010302),1977-07-01,2023-05-07,46.27,-113.16,2377,Granite,850
+SNTL,NV,pole creek r.s. ,Upper Big Flat Creek (170501021002),1977-02-01,2023-05-07,41.87,-115.25,2548,Elko,698
+SNTL,MT,emery creek ,Hungry Horse Creek (170102090703),1975-10-01,2023-05-07,48.43,-113.94,1326,Flathead,469
+SNTL,MT,porcupine ,Porcupine Creek (100700030303),1975-10-01,2023-05-07,46.11,-110.47,1981,Park,700
+SNTL,NV,bear creek ,West Fork Pine Creek-Jarbidge River (170501020301),1976-03-01,2023-05-07,41.83,-115.45,2451,Elko,321
+SNTL,WY,bald mtn. ,Commissary Creek-Crooked Creek (100800100501),1975-10-01,2023-05-07,44.8,-107.84,2859,Big Horn,309
+SNTL,WY,gros ventre summit ,Cottonwood Creek (170401020203),1976-04-01,2023-05-07,43.39,-110.13,2667,Teton,506
+SNTL,WY,phillips bench ,Sheep Creek (170401030504),1976-03-01,2023-05-07,43.52,-110.91,2499,Teton,689
+SNTL,WY,south brush creek ,Henry Creek-Big Creek (101800020303),1976-02-01,2023-05-07,41.33,-106.5,2589,Carbon,772
+SNTL,WY,webber springs ,North Fork Encampment River (101800020406),1976-02-01,2023-05-07,41.16,-106.93,2822,Carbon,852
+SNTL,MT,calvert creek ,Fishtrap Creek (100200040801),1974-10-01,2023-05-07,45.88,-113.33,1960,Deer Lodge,381
+SNTL,AK,mt. alyeska ,Glacier Creek (190203020702),1971-10-01,2023-05-07,60.96,-149.09,469,Anchorage,1103
+SNTL,MT,clover meadow ,Ruby Creek (100200070803),1971-10-01,2023-05-07,45.02,-111.85,2621,Madison,403
+SNTL,MT,tepee creek ,Middle West Fork Madison River (100200070602),1971-10-01,2023-05-07,44.79,-111.71,2438,Madison,813
+SNTL,NM,frisco divide ,Stone Creek-San Francisco River (150400040303),1971-10-01,2023-05-07,33.74,-108.94,2442,Catron,486
+SNTL,AZ,white horse lake ,Upper Hell Canyon (150602020204),1970-11-01,2023-05-07,35.14,-112.15,2195,Coconino,861
+SNTL,MT,divide ,Headwaters Ruby River (100200030102),1971-01-01,2023-05-07,44.79,-112.06,2377,Madison,448
+SNTL,MT,lemhi ridge ,Trail Creek (100200011106),1971-01-01,2023-05-07,44.99,-113.44,2469,Beaverhead,576
+SNTL,MT,lubrecht flume ,Placid Lake (170102031204),1970-10-01,2023-05-07,46.88,-113.32,1426,Missoula,604
+SNTL,MT,flattop mtn. ,McDonald Creek Headwaters (170102070501),1969-10-01,2023-05-07,48.8,-113.86,1920,Flathead,482
+SNTL,MT,badger pass ,North Badger Creek (100302010201),1968-10-01,2023-05-07,48.13,-113.02,2103,Pondera,307
+SNTL,MT,banfield mountain ,Bristow Creek (170101011202),1968-10-01,2023-05-07,48.57,-115.45,1707,Lincoln,311
+SNTL,MT,garver creek ,Upper West Fork Yaak River (170101030202),1968-10-01,2023-05-07,48.98,-115.82,1295,Lincoln,918
+SNTL,MT,grave creek ,Upper Grave Creek (170101010801),1968-10-01,2023-05-07,48.91,-114.77,1311,Flathead,500
+SNTL,MT,hawkins lake ,South Fork Hawkins Creek-Hawkins Creek (170101050201),1968-10-01,2023-05-07,48.97,-115.95,1966,Lincoln,516
+SNTL,MT,mount lockhart ,Middle North Fork Teton River (100302050102),1968-10-01,2023-05-07,47.92,-112.82,1951,Teton,649
+SNTL,MT,poorman creek ,Upper Libby Creek (170101011301),1968-10-01,2023-05-07,48.13,-115.62,1554,Lincoln,932
+SNTL,MT,stahl peak ,Upper Grave Creek (170101010801),1968-10-01,2023-05-07,48.91,-114.86,1838,Lincoln,787
+SNTL,MT,waldron ,Middle North Fork Teton River (100302050102),1968-10-01,2023-05-07,47.92,-112.79,1707,Teton,847
+SNTL,MT,black bear ,Madison Arm-Madison River (100200070202),1967-10-01,2023-05-07,44.51,-111.13,2490,Gallatin,347
+SNTL,MT,frohner meadow ,Lump Gulch (100301011305),1967-10-01,2023-05-07,46.44,-112.19,1975,Jefferson,487
+SNTL,MT,madison plateau ,Middle South Fork Madison River (100200070204),1967-10-01,2023-05-07,44.59,-111.12,2362,Gallatin,609
+SNTL,MT,n fk elk creek ,Placid Lake (170102031204),1967-10-01,2023-05-07,46.87,-113.28,1905,Powell,657
+SNTL,MT,nez perce camp ,Nez Pierce Fork-Nelson Lake (170102050204),1967-10-01,2023-05-07,45.73,-114.48,1722,Ravalli,662
+SNTL,MT,rocker peak ,Cataract Creek (100200060302),1967-10-01,2023-05-07,46.36,-112.26,2438,Jefferson,722
+SNTL,MT,rocky boy ,Upper Beaver Creek (100500040101),1967-10-01,2023-05-07,48.17,-109.65,1433,Hill,917
+SNTL,MT,saddle mtn. ,Camp Creek (170102050502),1967-10-01,2023-05-07,45.69,-113.97,2420,Beaverhead,727
+SNTL,MT,twelvemile creek ,Lost Horse Creek (170102050601),1967-10-01,2023-05-07,46.14,-114.45,1707,Ravalli,835
+SNTL,MT,twin lakes ,Lost Horse Creek (170102050601),1967-10-01,2023-05-07,46.14,-114.51,1951,Ravalli,836
+SNTL,MT,whiskey creek ,Upper South Fork Madison River (100200070203),1967-10-01,2023-05-07,44.61,-111.15,2073,Gallatin,858
+SNTL,AK,long lake ,190102060505-Dawes Glacier (190102060505),1966-10-01,2023-05-07,58.19,-133.83,259,Juneau,1001
+SNTL,MT,beaver creek ,Upper Beaver Creek (100200070402),1966-10-01,2023-05-07,44.95,-111.36,2393,Gallatin,328
+SNTL,MT,carrot basin ,Specimen Creek (100200080105),1966-10-01,2023-05-07,44.96,-111.29,2743,Gallatin,385
+SNTL,MT,crystal lake ,Big Rock Creek (100401030204),1967-09-01,2023-05-07,46.79,-109.51,1844,Fergus,427
+SNTL,MT,daly creek ,Daly Creek (170102050901),1966-10-01,2023-05-07,46.18,-113.85,1762,Ravalli,433
+SNTL,MT,deadman creek ,Headwaters Sheep Creek (100301030401),1966-10-01,2023-05-07,46.79,-110.68,1966,Meagher,437
+SNTL,MT,fisher creek ,Hoodoo Creek (100700060202),1966-10-01,2023-05-07,45.06,-109.94,2774,Park,480
+SNTL,MT,hoodoo basin ,Upper Trout Creek (170102040607),1966-10-01,2023-05-07,46.98,-115.03,1844,Mineral,530
+SNTL,MT,skalkaho summit ,Middle West Fork Ross Creek (170102021003),1966-10-01,2023-05-07,46.24,-113.77,2210,Granite,760
+SNTL,MT,spur park ,Cleveland Creek (100401030301),1966-10-01,2023-05-07,46.78,-110.62,2469,Judith Basin,781
+SNTL,MT,west yellowstone ,Lower South Fork Madison River (100200070205),1966-10-01,2023-05-07,44.66,-111.09,2042,Gallatin,924
+SNTL,MT,white mill ,Hoodoo Creek (100700060202),1966-10-01,2023-05-07,45.05,-109.91,2652,Park,862
+SNTL,WY,timber creek ,Rose Creek-Greybull River (100800090210),1967-08-01,2023-05-07,44.03,-109.18,2423,Park,819
+SNTL,AZ,baker butte ,Pine Creek (150602030206),1965-10-01,2023-05-07,34.46,-111.41,2244,Coconino,308
+SNTL,MT,black pine ,Marshall Creek (170102020203),1965-10-01,2023-05-07,46.41,-113.43,2198,Granite,349
+SNTL,MT,combination ,Upper South Fork Lower Middle Creek (170102020401),1965-10-01,2023-05-07,46.47,-113.39,1707,Granite,410
+SNTL,MT,peterson meadows ,Silver Lake (170102020101),1965-10-01,2023-05-07,46.13,-113.31,2195,Granite,930
+SNTL,MT,shower falls ,Upper Hyalite Creek (100200081001),1964-10-01,2023-05-07,45.4,-110.96,2469,Gallatin,754
+SNTL,MT,lick creek ,Upper Hyalite Creek (100200081001),1963-10-01,2023-05-07,45.5,-110.97,2091,Gallatin,578
+SNTL,WY,elkhart park g.s. ,Lake Creek (140401020103),1963-10-01,2023-05-07,43.01,-109.76,2865,Sublette,468
+SNTL,WY,kelley r.s. ,Upper Dry Muddy Creek (140401070501),1963-10-01,2023-05-07,42.27,-110.8,2493,Lincoln,554
+SNTL,AZ,mormon mountain ,Mormon Lake (150200150201),1963-01-01,2023-05-07,34.94,-111.52,2286,Coconino,640
+SNTL,CO,berthoud summit ,Upper Fraser River (140100010202),1963-09-01,2023-05-07,39.8,-105.78,3449,Grand,335
+SNTL,WY,big sandy opening ,Black Joe Creek-Big Sandy River (140401040101),1963-03-01,2023-05-07,42.65,-109.26,2768,Sublette,342
+SNTL,WY,brooklyn lake ,Spring Creek (101800100502),1962-10-01,2023-05-07,41.36,-106.23,3124,Albany,367
+SNTL,WY,lewis lake divide ,Basin Creek-Snake River (170401010104),1963-09-01,2023-05-07,44.21,-110.67,2393,Teton,577
+SNTL,WY,casper mtn. ,Pratts Soda Lakes (101800070804),1962-01-01,2023-05-07,42.73,-106.32,2414,Natrona,389
+SNTL,WY,grassy lake ,Mountain Ash Creek (170402030202),1962-09-01,2023-05-07,44.13,-110.83,2214,Teton,499
+SNTL,WY,north french creek ,Encampment River-West Fork (101800020502),1962-09-01,2023-05-07,41.33,-106.38,3095,Carbon,668
+SNTL,WY,old battle ,Upper Sage Creek (101800020901),1962-09-01,2023-05-07,41.15,-106.97,3005,Carbon,673
+SNTL,MT,cole creek ,Skunk Creek-Clarks Fork Yellowstone Creek (100700060801),1960-10-01,2023-05-07,45.19,-109.35,2393,Carbon,407
+SNTL,MT,lakeview ridge ,Odell Creek (100200010105),1960-10-01,2023-05-07,44.59,-111.82,2256,Beaverhead,568
+SNTL,MT,moss peak ,Polson (170102080404),1961-04-01,2023-05-07,47.68,-113.96,2067,Lake,646
+SNTL,MT,noisy basin ,Lower Ashley Creek (170102080208),1961-04-01,2023-05-07,48.16,-113.95,1841,Flathead,664
+SNTL,MT,north fork jocko ,Middle Fork Jocko River (170102120702),1961-04-01,2023-05-07,47.27,-113.76,1929,Missoula,667
+SNTL,MT,pike creek ,Upper South Fork Two Medicine River (100302010103),1960-10-01,2023-05-07,48.3,-113.33,1807,Pondera,693
+SNTL,WY,canyon ,Upper Slough Creek (100700010705),1960-10-01,2023-05-07,44.72,-110.51,2399,Park,384
+SNTL,WY,togwotee pass ,Upper Horse Creek (100800010201),1960-10-01,2023-05-07,43.75,-110.06,2920,Teton,822
+SNTL,WY,salt river summit ,Upper Crow Creek (170401050101),1959-10-01,2023-05-07,42.51,-110.91,2329,Lincoln,730
+SNTL,AZ,hannagan meadows ,Upper Beaver Creek (150601010107),1956-10-01,2023-05-07,33.65,-109.31,2751,Greenlee,511
+SNTL,AZ,heber ,West Fork Black Canyon (150200100201),1953-10-01,2023-05-07,34.31,-110.75,2333,Coconino,519
+SNTL,AZ,maverick fork ,Upper West Fork Black River (150601010104),1953-10-01,2023-05-07,33.92,-109.46,2810,Apache,617
+SNTL,AZ,baldy ,Hall Creek-Little Colorado River (150200010203),1949-11-01,2023-05-07,33.98,-109.5,2811,Apache,310
+SNTL,WY,powder river pass ,Bud Kimball Creek (100800080304),1949-10-01,2023-05-07,44.16,-107.13,2890,Johnson,703
+SNTL,AZ,workman creek ,Workman Creek (150601030802),1938-12-01,2023-05-07,33.81,-110.92,2143,Gila,877
+SNTL,MT,northeast entrance ,Cold Creek (100700010602),1937-10-01,2023-05-07,45.01,-110.01,2240,Yellowstone National Park,670
